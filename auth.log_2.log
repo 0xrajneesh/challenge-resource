@@ -1,0 +1,1500 @@
+Aug 03 13:04:53 ubuntu sshd[7937]: Invalid user joemoon from 204.142.75.217 port 34961
+Aug 03 08:59:00 ubuntu sshd[5676]: Failed password for sheltonmegan from 203.66.232.182 port 30166 ssh2
+Aug 02 19:43:46 ubuntu sshd[5464]: session opened for user agonzalez by (uid=0)
+Aug 03 04:10:22 ubuntu sshd[8158]: Failed password for zachary07 from 156.193.202.138 port 5734 ssh2
+Aug 03 08:58:54 ubuntu sshd[4320]: Invalid user morrisanthony from 108.166.23.249 port 24617
+Aug 02 19:56:28 ubuntu sshd[1767]: session opened for user bryanlinda by (uid=0)
+Aug 03 10:45:09 ubuntu sshd[9163]: sudo:    matthew52 : TTY=pts/0 ; PWD=/home/matthew52 ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:36:46 ubuntu sshd[1478]: sudo:    brandonmckee : TTY=pts/0 ; PWD=/home/brandonmckee ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:44:52 ubuntu sshd[5957]: session opened for user charlesfoster by (uid=0)
+Aug 03 03:32:37 ubuntu sshd[8302]: Failed password for courtneyjohnson from 129.37.17.149 port 29093 ssh2
+Aug 03 09:13:36 ubuntu sshd[7697]: Accepted password for gsmith from 200.151.216.52 port 22128 ssh2
+Aug 02 16:28:05 ubuntu sshd[9754]: Failed password for doris46 from 220.240.75.228 port 35670 ssh2
+Aug 03 07:05:51 ubuntu sshd[4976]: Invalid user jessica63 from 82.168.62.87 port 25303
+Aug 03 09:38:07 ubuntu sshd[5580]: session closed for user xmcintosh
+Aug 03 04:45:23 ubuntu sshd[4953]: Accepted password for eric79 from 151.78.228.245 port 52871 ssh2
+Aug 02 23:48:50 ubuntu sshd[1673]: Failed password for bonnie07 from 67.27.29.21 port 20425 ssh2
+Aug 03 01:13:46 ubuntu sshd[4427]: Invalid user debbie81 from 142.0.159.244 port 64449
+Aug 03 09:31:14 ubuntu sshd[2438]: Failed password for ningram from 99.205.42.243 port 38436 ssh2
+Aug 03 02:58:25 ubuntu sshd[5008]: session opened for user daustin by (uid=0)
+Aug 03 12:51:05 ubuntu sshd[6582]: sudo:    gabriellaballard : TTY=pts/0 ; PWD=/home/gabriellaballard ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:03:39 ubuntu sshd[5771]: sudo:    alexander27 : TTY=pts/0 ; PWD=/home/alexander27 ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:02:06 ubuntu sshd[1405]: sudo:    jamiewhite : TTY=pts/0 ; PWD=/home/jamiewhite ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:00:35 ubuntu sshd[4361]: Accepted password for james03 from 145.195.152.92 port 18120 ssh2
+Aug 03 08:21:20 ubuntu sshd[4505]: sudo:    xbonilla : TTY=pts/0 ; PWD=/home/xbonilla ; USER=root ; COMMAND=/bin/ls
+Aug 03 07:43:16 ubuntu sshd[4965]: Failed password for jruiz from 177.151.1.231 port 39220 ssh2
+Aug 02 22:42:37 ubuntu sshd[3700]: Accepted password for arice from 180.69.84.182 port 28945 ssh2
+Aug 03 11:23:46 ubuntu sshd[3011]: Accepted password for nicholas09 from 217.36.40.100 port 17092 ssh2
+Aug 03 01:57:46 ubuntu sshd[4761]: Invalid user tina25 from 223.161.17.88 port 50127
+Aug 03 03:49:12 ubuntu sshd[9762]: Failed password for scotttara from 122.187.151.224 port 12143 ssh2
+Aug 03 06:23:00 ubuntu sshd[3397]: Invalid user jeremy69 from 210.88.39.58 port 50618
+Aug 03 04:26:10 ubuntu sshd[7032]: sudo:    annecruz : TTY=pts/0 ; PWD=/home/annecruz ; USER=root ; COMMAND=/bin/ls
+Aug 02 17:20:04 ubuntu sshd[2317]: Invalid user wesleychandler from 155.5.16.222 port 57115
+Aug 03 07:08:36 ubuntu sshd[5012]: session opened for user msmith by (uid=0)
+Aug 03 07:44:20 ubuntu sshd[4057]: session closed for user bensonkaren
+Aug 03 12:37:53 ubuntu sshd[1829]: sudo:    tristan18 : TTY=pts/0 ; PWD=/home/tristan18 ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:56:04 ubuntu sshd[1576]: Failed password for xpowers from 76.200.21.204 port 2853 ssh2
+Aug 03 11:17:59 ubuntu sshd[1531]: Failed password for cgarcia from 163.150.181.81 port 9436 ssh2
+Aug 03 03:53:28 ubuntu sshd[5217]: Accepted password for hernandezchristian from 123.32.184.171 port 13781 ssh2
+Aug 02 22:43:36 ubuntu sshd[3389]: Invalid user mprice from 166.191.24.75 port 1188
+Aug 02 22:02:51 ubuntu sshd[1665]: Failed password for weeksmichael from 196.153.61.133 port 46467 ssh2
+Aug 03 12:30:46 ubuntu sshd[8933]: Failed password for lsolis from 57.232.218.38 port 12985 ssh2
+Aug 03 01:53:29 ubuntu sshd[3053]: Failed password for qdrake from 136.126.8.240 port 4441 ssh2
+Aug 03 04:43:15 ubuntu sshd[1109]: Failed password for pgood from 209.186.115.191 port 14233 ssh2
+Aug 03 04:29:44 ubuntu sshd[1067]: Invalid user charles64 from 95.172.77.82 port 29560
+Aug 02 21:16:32 ubuntu sshd[8700]: session opened for user sethhayes by (uid=0)
+Aug 03 09:03:55 ubuntu sshd[3765]: Accepted password for jamiegarcia from 22.126.5.41 port 14016 ssh2
+Aug 03 07:57:59 ubuntu sshd[6468]: Invalid user lodonnell from 161.195.117.32 port 34557
+Aug 03 14:15:50 ubuntu sshd[2065]: Failed password for ylang from 195.134.11.250 port 17891 ssh2
+Aug 03 10:42:44 ubuntu sshd[6067]: sudo:    anne34 : TTY=pts/0 ; PWD=/home/anne34 ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:20:55 ubuntu sshd[1380]: session opened for user tristan18 by (uid=0)
+Aug 02 17:50:12 ubuntu sshd[4797]: Accepted password for oliviawhite from 37.22.10.62 port 12939 ssh2
+Aug 02 21:54:46 ubuntu sshd[8342]: Invalid user xmay from 191.130.232.126 port 19831
+Aug 03 08:57:56 ubuntu sshd[3336]: Accepted password for brittany63 from 85.242.107.20 port 23580 ssh2
+Aug 03 06:10:27 ubuntu sshd[1664]: Accepted password for smalldavid from 128.160.217.205 port 40792 ssh2
+Aug 03 05:41:43 ubuntu sshd[3652]: session closed for user marc91
+Aug 02 14:29:57 ubuntu sshd[1937]: Accepted password for nharris from 125.42.8.104 port 3826 ssh2
+Aug 03 09:48:54 ubuntu sshd[8355]: Invalid user kylepage from 109.196.255.43 port 46584
+Aug 02 22:58:20 ubuntu sshd[7665]: sudo:    sabrina75 : TTY=pts/0 ; PWD=/home/sabrina75 ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:08:39 ubuntu sshd[2585]: Invalid user plee from 154.25.79.152 port 40610
+Aug 02 14:30:07 ubuntu sshd[8598]: session opened for user benitezheidi by (uid=0)
+Aug 02 20:09:42 ubuntu sshd[7913]: session opened for user kblankenship by (uid=0)
+Aug 03 04:03:39 ubuntu sshd[1498]: session opened for user mcintyrekaren by (uid=0)
+Aug 03 12:16:03 ubuntu sshd[2198]: session closed for user hintonnathaniel
+Aug 03 08:37:15 ubuntu sshd[4310]: Invalid user carrie02 from 165.149.215.89 port 20682
+Aug 03 13:34:15 ubuntu sshd[5210]: Invalid user holmessean from 154.113.115.190 port 4755
+Aug 03 10:01:49 ubuntu sshd[1024]: Failed password for david66 from 162.206.172.118 port 56269 ssh2
+Aug 02 15:02:41 ubuntu sshd[2549]: Failed password for lisa84 from 134.134.180.235 port 21158 ssh2
+Aug 03 13:26:45 ubuntu sshd[9485]: Accepted password for tracy14 from 194.126.104.39 port 13592 ssh2
+Aug 03 09:54:15 ubuntu sshd[6032]: session opened for user milleramber by (uid=0)
+Aug 03 08:02:23 ubuntu sshd[6915]: sudo:    hayesmichael : TTY=pts/0 ; PWD=/home/hayesmichael ; USER=root ; COMMAND=/bin/ls
+Aug 02 23:49:42 ubuntu sshd[6184]: Failed password for preston31 from 133.196.105.103 port 6774 ssh2
+Aug 03 13:10:02 ubuntu sshd[7219]: Failed password for bateshannah from 174.129.135.246 port 22026 ssh2
+Aug 02 22:36:35 ubuntu sshd[9001]: Accepted password for mcclainallison from 22.2.236.223 port 56756 ssh2
+Aug 02 23:29:28 ubuntu sshd[5831]: session opened for user kristina93 by (uid=0)
+Aug 02 23:24:40 ubuntu sshd[9164]: Invalid user xwest from 189.242.139.36 port 42651
+Aug 02 18:34:43 ubuntu sshd[3207]: Accepted password for tylerwalker from 159.81.203.54 port 31247 ssh2
+Aug 02 19:40:29 ubuntu sshd[5697]: Failed password for tonyawilliamson from 212.153.72.119 port 59873 ssh2
+Aug 03 03:31:28 ubuntu sshd[1196]: Failed password for knightpaul from 201.21.47.1 port 46013 ssh2
+Aug 02 19:40:21 ubuntu sshd[9753]: Accepted password for hinesjeremy from 205.253.178.53 port 8360 ssh2
+Aug 03 06:22:03 ubuntu sshd[2345]: session closed for user jtran
+Aug 02 22:29:56 ubuntu sshd[4469]: Failed password for stephenflores from 28.202.185.3 port 36953 ssh2
+Aug 03 05:55:04 ubuntu sshd[9724]: session closed for user shannon00
+Aug 02 23:33:17 ubuntu sshd[3179]: sudo:    gerald87 : TTY=pts/0 ; PWD=/home/gerald87 ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:44:08 ubuntu sshd[7799]: sudo:    oliviawhite : TTY=pts/0 ; PWD=/home/oliviawhite ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:44:05 ubuntu sshd[1588]: Accepted password for jamienicholson from 200.109.97.181 port 37481 ssh2
+Aug 03 02:43:19 ubuntu sshd[9978]: sudo:    dorseyrebecca : TTY=pts/0 ; PWD=/home/dorseyrebecca ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:54:56 ubuntu sshd[5261]: session opened for user dominguezmelissa by (uid=0)
+Aug 02 16:07:48 ubuntu sshd[6379]: Accepted password for mcclainallison from 22.2.236.223 port 9652 ssh2
+Aug 02 15:21:49 ubuntu sshd[2033]: Invalid user pyang from 104.197.217.126 port 50743
+Aug 02 15:27:35 ubuntu sshd[6443]: session opened for user jacobjones by (uid=0)
+Aug 03 01:34:38 ubuntu sshd[5990]: session closed for user charlesfarmer
+Aug 02 20:29:41 ubuntu sshd[8306]: session closed for user tpitts
+Aug 02 20:42:11 ubuntu sshd[9630]: Invalid user lisa17 from 153.219.22.29 port 11227
+Aug 03 13:34:11 ubuntu sshd[9275]: Invalid user smithgary from 5.181.111.156 port 18271
+Aug 02 21:29:40 ubuntu sshd[6457]: sudo:    sevans : TTY=pts/0 ; PWD=/home/sevans ; USER=root ; COMMAND=/bin/ls
+Aug 02 18:16:47 ubuntu sshd[2512]: Accepted password for mccoytami from 208.172.133.89 port 20947 ssh2
+Aug 03 01:45:28 ubuntu sshd[4872]: sudo:    reeseryan : TTY=pts/0 ; PWD=/home/reeseryan ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:21:06 ubuntu sshd[4040]: session closed for user sevans
+Aug 03 06:54:30 ubuntu sshd[4462]: session closed for user robert13
+Aug 02 20:51:35 ubuntu sshd[8392]: session opened for user wsmith by (uid=0)
+Aug 02 22:31:06 ubuntu sshd[3795]: session closed for user lisapatel
+Aug 03 13:26:46 ubuntu sshd[4211]: session closed for user xstokes
+Aug 02 15:34:35 ubuntu sshd[1943]: Failed password for kennethjohnson from 85.135.243.193 port 36632 ssh2
+Aug 02 15:18:37 ubuntu sshd[7160]: sudo:    shelleyjackson : TTY=pts/0 ; PWD=/home/shelleyjackson ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:58:27 ubuntu sshd[1690]: session opened for user wilsonsarah by (uid=0)
+Aug 03 06:52:51 ubuntu sshd[9705]: Accepted password for floresrebecca from 107.247.73.70 port 44280 ssh2
+Aug 03 04:55:10 ubuntu sshd[8138]: Invalid user deanandrea from 171.37.141.35 port 27501
+Aug 02 16:06:44 ubuntu sshd[2142]: Invalid user daniel83 from 218.115.6.200 port 39430
+Aug 02 21:33:33 ubuntu sshd[4768]: session opened for user sabrinasandoval by (uid=0)
+Aug 03 04:44:15 ubuntu sshd[8988]: Accepted password for mcleanrandy from 30.187.211.107 port 7471 ssh2
+Aug 03 04:17:48 ubuntu sshd[7641]: Invalid user markcarpenter from 219.26.65.140 port 7173
+Aug 02 22:08:15 ubuntu sshd[2629]: Accepted password for jessica05 from 166.224.136.90 port 32332 ssh2
+Aug 03 12:45:48 ubuntu sshd[5835]: Accepted password for harrischristina from 209.188.197.120 port 59167 ssh2
+Aug 03 03:05:31 ubuntu sshd[9956]: session closed for user doristerrell
+Aug 03 12:22:26 ubuntu sshd[2957]: Invalid user stanleyjason from 106.147.158.185 port 50867
+Aug 02 23:00:28 ubuntu sshd[1609]: Accepted password for vstewart from 220.117.139.104 port 62535 ssh2
+Aug 03 04:35:37 ubuntu sshd[7856]: session closed for user marilyncoleman
+Aug 02 16:48:25 ubuntu sshd[7230]: sudo:    bensonkaren : TTY=pts/0 ; PWD=/home/bensonkaren ; USER=root ; COMMAND=/bin/ls
+Aug 02 17:19:34 ubuntu sshd[2425]: Failed password for barryolivia from 137.94.130.102 port 42269 ssh2
+Aug 03 09:50:07 ubuntu sshd[2457]: sudo:    lauren90 : TTY=pts/0 ; PWD=/home/lauren90 ; USER=root ; COMMAND=/bin/ls
+Aug 02 18:21:32 ubuntu sshd[4648]: Accepted password for danielmcgrath from 194.45.137.191 port 42482 ssh2
+Aug 03 13:01:58 ubuntu sshd[7368]: session closed for user courtneyalvarez
+Aug 02 18:46:45 ubuntu sshd[9037]: Invalid user akelley from 208.25.85.35 port 46088
+Aug 03 03:21:54 ubuntu sshd[4384]: sudo:    rhodge : TTY=pts/0 ; PWD=/home/rhodge ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:53:04 ubuntu sshd[5961]: Failed password for collinsrobert from 14.244.208.77 port 11349 ssh2
+Aug 03 00:03:45 ubuntu sshd[1529]: session closed for user marcia33
+Aug 02 16:33:19 ubuntu sshd[4542]: Invalid user torrestracy from 95.151.148.191 port 17241
+Aug 03 04:03:39 ubuntu sshd[6345]: Failed password for rvalenzuela from 202.44.2.140 port 59476 ssh2
+Aug 03 00:23:23 ubuntu sshd[3066]: Accepted password for tjones from 213.171.215.42 port 35455 ssh2
+Aug 03 11:53:37 ubuntu sshd[4365]: session closed for user rhondapadilla
+Aug 03 00:48:35 ubuntu sshd[4384]: sudo:    ann79 : TTY=pts/0 ; PWD=/home/ann79 ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:10:38 ubuntu sshd[3283]: session opened for user gravesvictoria by (uid=0)
+Aug 03 12:52:53 ubuntu sshd[7602]: Accepted password for heidi41 from 201.121.43.35 port 8169 ssh2
+Aug 03 06:13:03 ubuntu sshd[6039]: Failed password for howardpatricia from 206.8.190.26 port 54487 ssh2
+Aug 03 00:59:42 ubuntu sshd[2108]: Failed password for carlosrose from 148.49.224.248 port 18945 ssh2
+Aug 02 17:56:03 ubuntu sshd[7035]: session closed for user ucox
+Aug 03 01:25:50 ubuntu sshd[6123]: Accepted password for ashley65 from 42.217.217.162 port 6045 ssh2
+Aug 03 05:09:55 ubuntu sshd[6184]: Accepted password for parkerallison from 64.68.131.183 port 64898 ssh2
+Aug 02 20:33:41 ubuntu sshd[5297]: Invalid user brittanyowen from 7.62.213.174 port 25321
+Aug 03 09:08:38 ubuntu sshd[2443]: Accepted password for elizabeth38 from 72.246.75.51 port 14036 ssh2
+Aug 02 15:49:28 ubuntu sshd[6936]: Invalid user joannetorres from 217.51.186.211 port 51742
+Aug 03 07:35:52 ubuntu sshd[5802]: session opened for user christophermann by (uid=0)
+Aug 03 04:45:58 ubuntu sshd[1322]: session closed for user davidyoung
+Aug 02 23:05:09 ubuntu sshd[6082]: Accepted password for wigginsregina from 51.169.82.230 port 18881 ssh2
+Aug 03 11:17:46 ubuntu sshd[9759]: Invalid user farleyandrea from 12.28.98.66 port 28858
+Aug 03 12:25:31 ubuntu sshd[7052]: Invalid user mendozawilliam from 222.61.234.136 port 27904
+Aug 02 23:25:53 ubuntu sshd[6289]: sudo:    allisonmooney : TTY=pts/0 ; PWD=/home/allisonmooney ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:49:38 ubuntu sshd[9266]: session closed for user qgarner
+Aug 03 09:34:14 ubuntu sshd[2299]: sudo:    sara85 : TTY=pts/0 ; PWD=/home/sara85 ; USER=root ; COMMAND=/bin/ls
+Aug 03 14:01:15 ubuntu sshd[4188]: session opened for user vlawson by (uid=0)
+Aug 03 12:14:42 ubuntu sshd[1349]: session opened for user morrisnancy by (uid=0)
+Aug 03 10:49:47 ubuntu sshd[7972]: session closed for user gholland
+Aug 03 13:09:57 ubuntu sshd[1245]: session closed for user hayesfrederick
+Aug 03 01:35:12 ubuntu sshd[8474]: Invalid user chad10 from 221.137.238.235 port 49502
+Aug 03 13:40:12 ubuntu sshd[8236]: sudo:    marshalllauren : TTY=pts/0 ; PWD=/home/marshalllauren ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:03:22 ubuntu sshd[8135]: Invalid user taylorvanessa from 193.179.152.52 port 9502
+Aug 03 11:27:12 ubuntu sshd[1509]: sudo:    davidknapp : TTY=pts/0 ; PWD=/home/davidknapp ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:53:04 ubuntu sshd[6826]: Invalid user xwest from 189.242.139.36 port 40243
+Aug 03 10:31:40 ubuntu sshd[4518]: Invalid user cantrelltracy from 199.247.105.197 port 61109
+Aug 03 13:51:24 ubuntu sshd[9548]: Accepted password for michaelcox from 145.52.41.245 port 36182 ssh2
+Aug 02 17:14:05 ubuntu sshd[7297]: session opened for user fowlergary by (uid=0)
+Aug 03 03:10:40 ubuntu sshd[9169]: session opened for user alvarezjulie by (uid=0)
+Aug 03 01:32:16 ubuntu sshd[6899]: Failed password for welchalexis from 188.141.186.37 port 64252 ssh2
+Aug 03 04:52:12 ubuntu sshd[5514]: session closed for user ihoward
+Aug 03 03:27:34 ubuntu sshd[1975]: Accepted password for cgarcia from 56.235.152.158 port 55179 ssh2
+Aug 02 16:43:34 ubuntu sshd[7125]: Failed password for larsonlinda from 198.249.219.11 port 58862 ssh2
+Aug 03 12:42:33 ubuntu sshd[5387]: session closed for user watsontravis
+Aug 02 22:32:08 ubuntu sshd[4856]: Accepted password for stacey24 from 176.220.208.205 port 18245 ssh2
+Aug 03 10:34:01 ubuntu sshd[3215]: Failed password for rebekahaguilar from 73.162.198.76 port 27416 ssh2
+Aug 02 18:55:14 ubuntu sshd[8868]: sudo:    rothmartin : TTY=pts/0 ; PWD=/home/rothmartin ; USER=root ; COMMAND=/bin/ls
+Aug 02 18:30:51 ubuntu sshd[6199]: session opened for user joshua50 by (uid=0)
+Aug 03 01:01:10 ubuntu sshd[2969]: Failed password for dbeltran from 207.41.179.26 port 25180 ssh2
+Aug 02 16:07:12 ubuntu sshd[3841]: Invalid user johnsonchristie from 194.191.215.212 port 39707
+Aug 03 02:12:17 ubuntu sshd[7039]: session opened for user donna10 by (uid=0)
+Aug 02 16:35:10 ubuntu sshd[9644]: Accepted password for hesparza from 130.57.220.146 port 13183 ssh2
+Aug 03 03:39:17 ubuntu sshd[9950]: Failed password for jeffrey13 from 18.55.118.189 port 40003 ssh2
+Aug 03 05:12:25 ubuntu sshd[2146]: Accepted password for joshua14 from 170.101.155.77 port 57714 ssh2
+Aug 03 07:46:01 ubuntu sshd[8965]: Accepted password for blopez from 97.45.38.53 port 49930 ssh2
+Aug 03 04:31:40 ubuntu sshd[3727]: session opened for user jason66 by (uid=0)
+Aug 02 15:16:41 ubuntu sshd[3400]: session opened for user nicholsrobert by (uid=0)
+Aug 03 09:37:27 ubuntu sshd[6856]: Failed password for allen38 from 196.121.187.235 port 45742 ssh2
+Aug 03 06:09:34 ubuntu sshd[4449]: session opened for user jsmith by (uid=0)
+Aug 03 04:45:51 ubuntu sshd[4709]: session closed for user jwagner
+Aug 02 18:54:53 ubuntu sshd[8946]: Invalid user kholmes from 30.125.255.173 port 62619
+Aug 03 07:46:41 ubuntu sshd[1644]: session opened for user rmartinez by (uid=0)
+Aug 02 21:35:24 ubuntu sshd[4459]: Accepted password for whayes from 167.12.7.237 port 19601 ssh2
+Aug 03 10:02:24 ubuntu sshd[8839]: session opened for user zedwards by (uid=0)
+Aug 03 02:20:32 ubuntu sshd[5218]: session closed for user bmcgrath
+Aug 03 09:36:45 ubuntu sshd[9150]: sudo:    pateljustin : TTY=pts/0 ; PWD=/home/pateljustin ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:13:23 ubuntu sshd[2502]: session opened for user thomas38 by (uid=0)
+Aug 02 20:20:16 ubuntu sshd[5762]: session closed for user freycatherine
+Aug 03 01:37:05 ubuntu sshd[7866]: Accepted password for mjones from 137.39.223.221 port 16590 ssh2
+Aug 03 10:50:35 ubuntu sshd[2614]: sudo:    williamwhite : TTY=pts/0 ; PWD=/home/williamwhite ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:21:42 ubuntu sshd[1847]: sudo:    melodyortega : TTY=pts/0 ; PWD=/home/melodyortega ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:57:18 ubuntu sshd[3672]: Accepted password for paynejessica from 115.177.56.47 port 3904 ssh2
+Aug 02 14:59:14 ubuntu sshd[7888]: session closed for user smithhannah
+Aug 02 16:06:39 ubuntu sshd[2903]: sudo:    jensenlori : TTY=pts/0 ; PWD=/home/jensenlori ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:26:25 ubuntu sshd[4541]: Accepted password for dsanchez from 214.224.57.164 port 19507 ssh2
+Aug 03 08:18:24 ubuntu sshd[2043]: Failed password for edward55 from 176.75.164.32 port 52624 ssh2
+Aug 02 23:57:11 ubuntu sshd[2142]: Failed password for moonalexandra from 71.97.253.125 port 25408 ssh2
+Aug 03 08:10:13 ubuntu sshd[7903]: Accepted password for lopezchristopher from 190.115.20.31 port 37501 ssh2
+Aug 02 20:37:53 ubuntu sshd[5544]: Invalid user collinsrobert from 14.244.208.77 port 15985
+Aug 02 15:06:59 ubuntu sshd[4356]: session opened for user stephensoncheryl by (uid=0)
+Aug 03 04:00:55 ubuntu sshd[2744]: session closed for user vbartlett
+Aug 03 14:09:40 ubuntu sshd[8929]: Accepted password for zliu from 198.198.1.221 port 61650 ssh2
+Aug 03 10:40:22 ubuntu sshd[9549]: session closed for user lisamiller
+Aug 03 08:36:51 ubuntu sshd[6344]: session opened for user kristopherdiaz by (uid=0)
+Aug 02 22:19:11 ubuntu sshd[4899]: sudo:    michellemiller : TTY=pts/0 ; PWD=/home/michellemiller ; USER=root ; COMMAND=/bin/ls
+Aug 02 17:04:17 ubuntu sshd[4666]: Accepted password for kevin27 from 201.11.183.92 port 40494 ssh2
+Aug 03 10:56:09 ubuntu sshd[5100]: session closed for user madisonberry
+Aug 03 13:59:37 ubuntu sshd[6798]: session closed for user melissacrane
+Aug 03 12:25:58 ubuntu sshd[6772]: Failed password for mbishop from 30.39.70.186 port 9340 ssh2
+Aug 02 15:28:16 ubuntu sshd[2277]: sudo:    elizabeth38 : TTY=pts/0 ; PWD=/home/elizabeth38 ; USER=root ; COMMAND=/bin/ls
+Aug 03 06:04:01 ubuntu sshd[6933]: Accepted password for ibuckley from 86.202.211.185 port 57113 ssh2
+Aug 03 03:44:45 ubuntu sshd[7391]: sudo:    patrickpearson : TTY=pts/0 ; PWD=/home/patrickpearson ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:21:13 ubuntu sshd[5270]: Failed password for rcruz from 196.201.206.243 port 56681 ssh2
+Aug 03 07:08:44 ubuntu sshd[9055]: sudo:    cassandrashah : TTY=pts/0 ; PWD=/home/cassandrashah ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:40:44 ubuntu sshd[4268]: session opened for user larmstrong by (uid=0)
+Aug 02 22:36:34 ubuntu sshd[9545]: session closed for user phillipmcfarland
+Aug 03 11:36:31 ubuntu sshd[2231]: Accepted password for rhonda11 from 198.145.23.223 port 58430 ssh2
+Aug 02 15:13:43 ubuntu sshd[1484]: Invalid user davidyoung from 148.204.123.97 port 27476
+Aug 03 00:35:29 ubuntu sshd[9284]: session closed for user emily26
+Aug 03 10:57:54 ubuntu sshd[3207]: sudo:    dcrane : TTY=pts/0 ; PWD=/home/dcrane ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:53:50 ubuntu sshd[5698]: session opened for user karenhowe by (uid=0)
+Aug 03 04:55:02 ubuntu sshd[5847]: session opened for user lindseywhite by (uid=0)
+Aug 02 18:00:46 ubuntu sshd[8674]: Invalid user zbell from 213.21.72.100 port 9315
+Aug 03 09:25:42 ubuntu sshd[1588]: Failed password for lancemitchell from 168.206.179.38 port 37472 ssh2
+Aug 03 13:12:26 ubuntu sshd[2292]: sudo:    mturner : TTY=pts/0 ; PWD=/home/mturner ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:56:22 ubuntu sshd[7669]: session closed for user wesley27
+Aug 02 22:57:54 ubuntu sshd[1107]: Invalid user margaret07 from 130.182.66.245 port 61370
+Aug 03 06:06:52 ubuntu sshd[5545]: Accepted password for hgreene from 146.208.219.177 port 57765 ssh2
+Aug 02 18:30:10 ubuntu sshd[5153]: sudo:    preynolds : TTY=pts/0 ; PWD=/home/preynolds ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:20:14 ubuntu sshd[9751]: Failed password for mcintyreraymond from 210.139.222.24 port 54200 ssh2
+Aug 03 04:48:20 ubuntu sshd[2422]: Failed password for chaseisaac from 208.165.138.177 port 43472 ssh2
+Aug 03 09:13:28 ubuntu sshd[3498]: Failed password for dylan98 from 189.172.15.16 port 8907 ssh2
+Aug 03 03:34:28 ubuntu sshd[8026]: session closed for user austin15
+Aug 02 21:54:30 ubuntu sshd[1086]: Failed password for pzhang from 30.5.109.62 port 35989 ssh2
+Aug 03 00:17:44 ubuntu sshd[9810]: Failed password for kcole from 103.108.177.144 port 41119 ssh2
+Aug 03 12:41:45 ubuntu sshd[1152]: Invalid user michele28 from 222.242.110.159 port 43569
+Aug 02 15:18:56 ubuntu sshd[8420]: session opened for user lisa56 by (uid=0)
+Aug 03 05:39:35 ubuntu sshd[5001]: sudo:    brandon03 : TTY=pts/0 ; PWD=/home/brandon03 ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:09:55 ubuntu sshd[8023]: session opened for user matthewscott by (uid=0)
+Aug 03 13:44:13 ubuntu sshd[1313]: Failed password for robertdavis from 152.116.215.125 port 32402 ssh2
+Aug 02 21:53:47 ubuntu sshd[4535]: session opened for user ckane by (uid=0)
+Aug 03 08:54:08 ubuntu sshd[5834]: Failed password for robinosborne from 95.33.44.98 port 41699 ssh2
+Aug 02 22:48:32 ubuntu sshd[6249]: sudo:    whitejonathan : TTY=pts/0 ; PWD=/home/whitejonathan ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:01:49 ubuntu sshd[1352]: session closed for user cookalexandra
+Aug 02 20:20:04 ubuntu sshd[9952]: session opened for user boyerscott by (uid=0)
+Aug 03 03:38:29 ubuntu sshd[7625]: session opened for user laura10 by (uid=0)
+Aug 03 12:29:24 ubuntu sshd[6036]: Invalid user unewton from 214.226.205.183 port 2688
+Aug 03 10:36:22 ubuntu sshd[9783]: session opened for user nicolewebb by (uid=0)
+Aug 02 14:21:42 ubuntu sshd[6247]: session opened for user osimpson by (uid=0)
+Aug 02 15:30:28 ubuntu sshd[9201]: Invalid user valerie98 from 204.112.141.7 port 62453
+Aug 03 08:11:45 ubuntu sshd[1386]: sudo:    grocha : TTY=pts/0 ; PWD=/home/grocha ; USER=root ; COMMAND=/bin/ls
+Aug 03 02:47:24 ubuntu sshd[8479]: Failed password for garrettbutler from 39.103.25.107 port 40151 ssh2
+Aug 03 09:27:00 ubuntu sshd[2017]: sudo:    clarkkevin : TTY=pts/0 ; PWD=/home/clarkkevin ; USER=root ; COMMAND=/bin/ls
+Aug 03 07:56:26 ubuntu sshd[9786]: session opened for user amy53 by (uid=0)
+Aug 03 00:01:13 ubuntu sshd[5885]: session closed for user monica76
+Aug 02 21:39:37 ubuntu sshd[2790]: Failed password for qramirez from 39.240.34.179 port 61763 ssh2
+Aug 02 19:38:43 ubuntu sshd[5836]: Accepted password for nicholas09 from 217.36.40.100 port 13898 ssh2
+Aug 03 11:50:18 ubuntu sshd[3215]: Accepted password for jennifer59 from 170.234.9.254 port 33773 ssh2
+Aug 02 22:19:21 ubuntu sshd[1122]: session closed for user kkeller
+Aug 03 07:59:10 ubuntu sshd[6347]: Accepted password for leecraig from 218.32.50.203 port 65113 ssh2
+Aug 02 18:22:26 ubuntu sshd[2177]: session closed for user herringkenneth
+Aug 03 06:00:53 ubuntu sshd[5632]: Accepted password for bennettsarah from 163.249.232.161 port 18625 ssh2
+Aug 03 07:52:25 ubuntu sshd[7330]: Accepted password for natalie13 from 217.32.103.176 port 32570 ssh2
+Aug 03 05:21:36 ubuntu sshd[1696]: Failed password for brian94 from 200.27.146.39 port 1846 ssh2
+Aug 03 00:15:19 ubuntu sshd[1045]: sudo:    dpacheco : TTY=pts/0 ; PWD=/home/dpacheco ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:32:14 ubuntu sshd[1561]: Accepted password for millermary from 116.84.131.40 port 28430 ssh2
+Aug 02 15:57:29 ubuntu sshd[8342]: Failed password for vrobbins from 195.59.225.93 port 60536 ssh2
+Aug 03 03:16:55 ubuntu sshd[2781]: Accepted password for perkinsjessica from 54.13.68.170 port 33082 ssh2
+Aug 02 15:59:07 ubuntu sshd[6391]: session closed for user carrolljeremy
+Aug 03 10:51:52 ubuntu sshd[9744]: session opened for user michellereilly by (uid=0)
+Aug 03 12:44:39 ubuntu sshd[9700]: session closed for user michelle67
+Aug 03 10:48:56 ubuntu sshd[5360]: session closed for user maciasjeffery
+Aug 03 00:50:28 ubuntu sshd[6089]: Failed password for upalmer from 140.208.94.51 port 63991 ssh2
+Aug 03 08:27:56 ubuntu sshd[5510]: Invalid user dphillips from 175.93.237.38 port 8224
+Aug 03 13:44:32 ubuntu sshd[7322]: session closed for user allisonmooney
+Aug 03 05:17:20 ubuntu sshd[7295]: session closed for user freylisa
+Aug 03 08:55:06 ubuntu sshd[8547]: Accepted password for dennisbray from 149.69.120.196 port 11275 ssh2
+Aug 02 19:03:17 ubuntu sshd[2985]: Accepted password for sethavila from 147.178.49.53 port 13010 ssh2
+Aug 03 03:31:15 ubuntu sshd[6438]: session opened for user brittany43 by (uid=0)
+Aug 03 07:29:05 ubuntu sshd[7598]: Accepted password for khess from 154.199.143.191 port 16475 ssh2
+Aug 02 15:14:29 ubuntu sshd[5055]: session closed for user ysanders
+Aug 03 05:51:19 ubuntu sshd[6052]: Failed password for tonygriffin from 88.18.126.20 port 55027 ssh2
+Aug 03 04:17:05 ubuntu sshd[8173]: sudo:    kathryn88 : TTY=pts/0 ; PWD=/home/kathryn88 ; USER=root ; COMMAND=/bin/ls
+Aug 02 20:29:35 ubuntu sshd[8252]: Invalid user hudsonjulia from 149.21.20.142 port 25562
+Aug 03 03:01:33 ubuntu sshd[5574]: sudo:    obeasley : TTY=pts/0 ; PWD=/home/obeasley ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:28:14 ubuntu sshd[4694]: Invalid user kevinlyons from 155.251.56.251 port 61467
+Aug 03 05:50:06 ubuntu sshd[6298]: sudo:    victor12 : TTY=pts/0 ; PWD=/home/victor12 ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:11:22 ubuntu sshd[7458]: Accepted password for jasoncarter from 197.44.59.147 port 9391 ssh2
+Aug 03 13:50:12 ubuntu sshd[7011]: Invalid user kgarcia from 217.54.22.70 port 55760
+Aug 03 06:57:56 ubuntu sshd[6056]: session opened for user grossbilly by (uid=0)
+Aug 02 15:44:14 ubuntu sshd[8311]: Invalid user ayoung from 157.19.184.176 port 15414
+Aug 02 18:08:43 ubuntu sshd[4691]: session opened for user angelathompson by (uid=0)
+Aug 03 03:18:59 ubuntu sshd[5308]: session closed for user bruce21
+Aug 03 06:01:36 ubuntu sshd[9347]: Accepted password for adam65 from 199.87.74.173 port 61209 ssh2
+Aug 02 14:51:28 ubuntu sshd[4078]: session closed for user mtaylor
+Aug 03 10:10:01 ubuntu sshd[5395]: session closed for user jessicahall
+Aug 03 01:40:08 ubuntu sshd[3388]: Accepted password for garcialouis from 154.219.163.154 port 56611 ssh2
+Aug 02 15:12:17 ubuntu sshd[2109]: session closed for user davidwolf
+Aug 02 21:48:10 ubuntu sshd[7349]: sudo:    holly38 : TTY=pts/0 ; PWD=/home/holly38 ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:33:00 ubuntu sshd[4210]: session opened for user tammie54 by (uid=0)
+Aug 02 20:20:04 ubuntu sshd[8218]: Failed password for saundersmary from 50.200.2.108 port 29607 ssh2
+Aug 03 03:15:48 ubuntu sshd[6498]: Invalid user ismith from 205.234.147.21 port 24726
+Aug 03 11:42:31 ubuntu sshd[4050]: session closed for user paullewis
+Aug 03 08:19:42 ubuntu sshd[4383]: sudo:    davidmaddox : TTY=pts/0 ; PWD=/home/davidmaddox ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:39:51 ubuntu sshd[1016]: Accepted password for gabriela11 from 102.82.39.243 port 55265 ssh2
+Aug 03 10:54:52 ubuntu sshd[9052]: Accepted password for alexandersanchez from 75.149.240.147 port 23164 ssh2
+Aug 03 02:22:49 ubuntu sshd[9909]: Invalid user hunterkrista from 139.83.116.143 port 40871
+Aug 02 22:36:18 ubuntu sshd[9252]: session opened for user bakerrobert by (uid=0)
+Aug 03 08:02:40 ubuntu sshd[6303]: Failed password for markdunlap from 55.218.40.56 port 31368 ssh2
+Aug 03 04:55:59 ubuntu sshd[8538]: session opened for user stacydavis by (uid=0)
+Aug 02 17:14:18 ubuntu sshd[2324]: Failed password for jeremy56 from 152.43.241.208 port 39870 ssh2
+Aug 03 10:06:55 ubuntu sshd[5944]: Failed password for jo47 from 204.151.228.49 port 43521 ssh2
+Aug 02 19:32:17 ubuntu sshd[2666]: sudo:    wrogers : TTY=pts/0 ; PWD=/home/wrogers ; USER=root ; COMMAND=/bin/ls
+Aug 02 20:09:26 ubuntu sshd[8807]: session closed for user sethhayes
+Aug 03 08:55:34 ubuntu sshd[5335]: Accepted password for grahamalicia from 223.30.135.115 port 14185 ssh2
+Aug 03 10:23:52 ubuntu sshd[3278]: Accepted password for trivera from 120.157.70.101 port 8674 ssh2
+Aug 03 13:52:03 ubuntu sshd[6353]: sudo:    dclark : TTY=pts/0 ; PWD=/home/dclark ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:24:32 ubuntu sshd[7007]: Invalid user laurawalsh from 162.59.204.12 port 5732
+Aug 02 15:36:47 ubuntu sshd[9362]: Accepted password for ywaters from 223.254.63.234 port 3609 ssh2
+Aug 03 13:06:51 ubuntu sshd[3630]: Invalid user wilsonvictoria from 99.107.44.85 port 14828
+Aug 03 01:26:28 ubuntu sshd[4695]: sudo:    jeffrey25 : TTY=pts/0 ; PWD=/home/jeffrey25 ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:12:23 ubuntu sshd[9867]: session closed for user robbinssarah
+Aug 03 13:19:59 ubuntu sshd[5851]: Accepted password for hendersonelizabeth from 136.207.253.171 port 42786 ssh2
+Aug 03 03:17:16 ubuntu sshd[9111]: sudo:    wigginsregina : TTY=pts/0 ; PWD=/home/wigginsregina ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:09:35 ubuntu sshd[6427]: sudo:    briannathompson : TTY=pts/0 ; PWD=/home/briannathompson ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:42:25 ubuntu sshd[9937]: Accepted password for xosborne from 220.247.88.238 port 5910 ssh2
+Aug 03 04:30:19 ubuntu sshd[2446]: Accepted password for gsmith from 200.151.216.52 port 36702 ssh2
+Aug 02 21:17:50 ubuntu sshd[7749]: sudo:    pamelataylor : TTY=pts/0 ; PWD=/home/pamelataylor ; USER=root ; COMMAND=/bin/ls
+Aug 03 06:30:54 ubuntu sshd[9007]: session opened for user christy31 by (uid=0)
+Aug 02 21:12:47 ubuntu sshd[9901]: session opened for user patrick76 by (uid=0)
+Aug 02 17:01:45 ubuntu sshd[4278]: session opened for user amber47 by (uid=0)
+Aug 03 10:54:05 ubuntu sshd[9241]: session closed for user michael78
+Aug 03 01:59:07 ubuntu sshd[3338]: Invalid user hickscarrie from 219.145.37.56 port 29062
+Aug 02 17:15:40 ubuntu sshd[9379]: Accepted password for panderson from 206.132.133.212 port 9297 ssh2
+Aug 02 20:19:44 ubuntu sshd[2092]: sudo:    swise : TTY=pts/0 ; PWD=/home/swise ; USER=root ; COMMAND=/bin/ls
+Aug 03 14:08:00 ubuntu sshd[5465]: sudo:    jaime12 : TTY=pts/0 ; PWD=/home/jaime12 ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:27:25 ubuntu sshd[8656]: Invalid user ernest12 from 174.238.75.51 port 45806
+Aug 03 11:39:58 ubuntu sshd[9935]: session opened for user solomonmark by (uid=0)
+Aug 03 12:52:21 ubuntu sshd[7380]: session closed for user rojasdavid
+Aug 03 10:39:30 ubuntu sshd[6440]: session closed for user burtonjose
+Aug 03 07:12:14 ubuntu sshd[7777]: Accepted password for brobinson from 168.70.114.136 port 46662 ssh2
+Aug 03 03:16:18 ubuntu sshd[2773]: session opened for user eric86 by (uid=0)
+Aug 03 14:07:06 ubuntu sshd[1248]: Accepted password for lewismartin from 4.18.66.52 port 25322 ssh2
+Aug 02 19:18:39 ubuntu sshd[7455]: Accepted password for matthew14 from 29.133.178.38 port 48999 ssh2
+Aug 02 21:23:10 ubuntu sshd[6309]: Accepted password for bmonroe from 130.77.69.38 port 28808 ssh2
+Aug 02 23:16:10 ubuntu sshd[9022]: Invalid user brucebutler from 132.229.172.41 port 2965
+Aug 02 20:00:37 ubuntu sshd[1708]: Invalid user ryanfreeman from 218.221.200.96 port 33772
+Aug 02 19:08:00 ubuntu sshd[1730]: Accepted password for millerrichard from 218.114.195.79 port 63182 ssh2
+Aug 03 09:08:05 ubuntu sshd[5147]: session opened for user rjohnson by (uid=0)
+Aug 03 07:24:56 ubuntu sshd[7129]: Invalid user coxsara from 206.194.4.173 port 10878
+Aug 02 16:35:02 ubuntu sshd[1597]: session closed for user michaelthomas
+Aug 03 04:11:53 ubuntu sshd[9062]: Failed password for patricia27 from 152.59.194.209 port 45616 ssh2
+Aug 03 06:46:19 ubuntu sshd[1360]: Failed password for ibeasley from 137.168.109.41 port 11264 ssh2
+Aug 03 06:31:29 ubuntu sshd[9142]: sudo:    preed : TTY=pts/0 ; PWD=/home/preed ; USER=root ; COMMAND=/bin/ls
+Aug 03 02:31:53 ubuntu sshd[7185]: sudo:    cathy08 : TTY=pts/0 ; PWD=/home/cathy08 ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:47:46 ubuntu sshd[6058]: session closed for user vreyes
+Aug 03 08:12:55 ubuntu sshd[4680]: Failed password for morrisjoshua from 190.192.2.52 port 1245 ssh2
+Aug 03 01:12:13 ubuntu sshd[4853]: session opened for user xwilliams by (uid=0)
+Aug 03 06:41:54 ubuntu sshd[9893]: Failed password for taylor27 from 187.21.224.199 port 32961 ssh2
+Aug 03 04:05:29 ubuntu sshd[8722]: sudo:    rebeccablevins : TTY=pts/0 ; PWD=/home/rebeccablevins ; USER=root ; COMMAND=/bin/ls
+Aug 02 17:23:45 ubuntu sshd[6450]: Invalid user christopher30 from 41.26.168.154 port 11837
+Aug 03 08:19:02 ubuntu sshd[2467]: sudo:    patricia50 : TTY=pts/0 ; PWD=/home/patricia50 ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:30:19 ubuntu sshd[9090]: session closed for user angela83
+Aug 02 19:23:36 ubuntu sshd[7407]: Failed password for catherineleach from 217.208.132.2 port 1604 ssh2
+Aug 02 21:23:38 ubuntu sshd[8746]: session closed for user kwilliams
+Aug 03 05:51:07 ubuntu sshd[1732]: session closed for user charrison
+Aug 03 03:58:24 ubuntu sshd[9458]: Accepted password for mthomas from 222.99.51.180 port 20916 ssh2
+Aug 02 16:17:55 ubuntu sshd[4851]: sudo:    timothy21 : TTY=pts/0 ; PWD=/home/timothy21 ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:56:21 ubuntu sshd[7686]: Accepted password for garciacarlos from 208.133.119.180 port 7390 ssh2
+Aug 02 14:45:08 ubuntu sshd[4813]: session opened for user watsontravis by (uid=0)
+Aug 03 02:08:14 ubuntu sshd[6533]: Invalid user cheryl53 from 209.99.64.50 port 23306
+Aug 02 17:02:17 ubuntu sshd[2889]: sudo:    ruben67 : TTY=pts/0 ; PWD=/home/ruben67 ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:04:01 ubuntu sshd[4312]: sudo:    irwindawn : TTY=pts/0 ; PWD=/home/irwindawn ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:38:42 ubuntu sshd[4190]: Invalid user knelson from 176.219.79.235 port 48200
+Aug 02 16:05:05 ubuntu sshd[6456]: Failed password for gordonjoseph from 213.174.30.46 port 33100 ssh2
+Aug 02 21:08:06 ubuntu sshd[9346]: Accepted password for gunderwood from 153.30.249.107 port 6855 ssh2
+Aug 03 04:11:03 ubuntu sshd[6247]: Invalid user smoore from 39.104.20.228 port 7164
+Aug 03 00:16:25 ubuntu sshd[2301]: session closed for user rowlandtyler
+Aug 02 14:29:43 ubuntu sshd[4886]: session closed for user cristina41
+Aug 03 10:13:55 ubuntu sshd[6235]: Failed password for charles64 from 95.172.77.82 port 13250 ssh2
+Aug 03 08:16:29 ubuntu sshd[4926]: session closed for user davisamy
+Aug 03 03:45:19 ubuntu sshd[6690]: Invalid user ccoleman from 209.117.246.59 port 47704
+Aug 03 08:48:33 ubuntu sshd[5545]: sudo:    ncoffey : TTY=pts/0 ; PWD=/home/ncoffey ; USER=root ; COMMAND=/bin/ls
+Aug 02 20:18:15 ubuntu sshd[8409]: sudo:    xhale : TTY=pts/0 ; PWD=/home/xhale ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:39:04 ubuntu sshd[4716]: Accepted password for tylerkennedy from 219.189.140.230 port 43147 ssh2
+Aug 03 13:51:58 ubuntu sshd[5410]: session opened for user rodneydavis by (uid=0)
+Aug 03 10:31:46 ubuntu sshd[3483]: sudo:    natashamontgomery : TTY=pts/0 ; PWD=/home/natashamontgomery ; USER=root ; COMMAND=/bin/ls
+Aug 02 18:28:29 ubuntu sshd[6625]: sudo:    angelataylor : TTY=pts/0 ; PWD=/home/angelataylor ; USER=root ; COMMAND=/bin/ls
+Aug 02 18:52:37 ubuntu sshd[4929]: sudo:    jenniferthomas : TTY=pts/0 ; PWD=/home/jenniferthomas ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:44:41 ubuntu sshd[8428]: session opened for user kellerjennifer by (uid=0)
+Aug 03 06:07:46 ubuntu sshd[1243]: session opened for user timothywhite by (uid=0)
+Aug 03 05:23:34 ubuntu sshd[1280]: Accepted password for jessica63 from 82.168.62.87 port 12240 ssh2
+Aug 03 05:21:02 ubuntu sshd[2904]: session closed for user dianabrown
+Aug 03 03:17:57 ubuntu sshd[5713]: Accepted password for paulcain from 101.133.1.133 port 54506 ssh2
+Aug 03 02:50:32 ubuntu sshd[4403]: session closed for user williamford
+Aug 03 09:16:11 ubuntu sshd[5579]: session opened for user fmcdonald by (uid=0)
+Aug 03 11:58:57 ubuntu sshd[8712]: session closed for user davidroberts
+Aug 03 00:28:46 ubuntu sshd[1082]: Failed password for zmoore from 132.101.90.18 port 11490 ssh2
+Aug 03 14:20:00 ubuntu sshd[3799]: session closed for user mrobertson
+Aug 03 07:01:49 ubuntu sshd[4001]: Failed password for kvega from 132.84.39.3 port 38501 ssh2
+Aug 03 11:17:07 ubuntu sshd[2521]: Failed password for eric57 from 146.13.144.10 port 35077 ssh2
+Aug 03 01:55:38 ubuntu sshd[6253]: session closed for user sextonhelen
+Aug 03 00:06:14 ubuntu sshd[3584]: Invalid user logan64 from 37.113.232.160 port 46875
+Aug 02 19:42:26 ubuntu sshd[2368]: sudo:    jrodriguez : TTY=pts/0 ; PWD=/home/jrodriguez ; USER=root ; COMMAND=/bin/ls
+Aug 02 20:01:26 ubuntu sshd[3485]: Invalid user nedwards from 185.135.79.83 port 48014
+Aug 02 14:24:27 ubuntu sshd[1354]: Invalid user ojohnson from 178.77.243.54 port 35440
+Aug 03 08:40:01 ubuntu sshd[2442]: Failed password for robert13 from 177.103.27.30 port 38297 ssh2
+Aug 02 22:36:58 ubuntu sshd[4652]: Accepted password for abarnes from 137.138.234.14 port 26345 ssh2
+Aug 02 20:34:50 ubuntu sshd[6445]: session closed for user stonejessica
+Aug 03 06:06:00 ubuntu sshd[1170]: session closed for user xosborne
+Aug 02 14:25:37 ubuntu sshd[3275]: session opened for user jacqueline02 by (uid=0)
+Aug 03 11:09:22 ubuntu sshd[3619]: Accepted password for grahamkim from 218.161.175.168 port 20758 ssh2
+Aug 03 12:23:35 ubuntu sshd[6019]: Accepted password for mossrichard from 147.137.82.135 port 24882 ssh2
+Aug 02 14:44:00 ubuntu sshd[2506]: session closed for user daniel83
+Aug 03 11:49:21 ubuntu sshd[1023]: Invalid user rowecraig from 220.26.161.50 port 26737
+Aug 03 04:07:20 ubuntu sshd[9859]: Invalid user claudiajacobs from 177.150.118.239 port 38095
+Aug 02 15:51:17 ubuntu sshd[1879]: session opened for user traviscalhoun by (uid=0)
+Aug 02 18:24:27 ubuntu sshd[2680]: Accepted password for rodriguezchristopher from 133.173.153.219 port 40779 ssh2
+Aug 02 23:59:29 ubuntu sshd[1821]: Failed password for laura16 from 189.175.96.142 port 52344 ssh2
+Aug 03 00:33:43 ubuntu sshd[5414]: Failed password for felicia67 from 206.61.32.209 port 35067 ssh2
+Aug 02 18:02:34 ubuntu sshd[5118]: session opened for user pateljustin by (uid=0)
+Aug 02 19:26:05 ubuntu sshd[1111]: Failed password for laurieevans from 136.86.221.60 port 45037 ssh2
+Aug 03 02:07:40 ubuntu sshd[7357]: Failed password for daniel17 from 63.170.177.162 port 19942 ssh2
+Aug 03 04:13:48 ubuntu sshd[7291]: session opened for user dustin34 by (uid=0)
+Aug 02 17:31:42 ubuntu sshd[9245]: Invalid user christy31 from 212.107.216.82 port 10762
+Aug 02 23:57:38 ubuntu sshd[7182]: Accepted password for william87 from 113.84.178.166 port 19359 ssh2
+Aug 03 05:36:59 ubuntu sshd[3405]: Failed password for hansenrebecca from 216.169.193.188 port 23163 ssh2
+Aug 03 03:25:58 ubuntu sshd[2344]: Invalid user chloehale from 85.7.133.216 port 26493
+Aug 03 05:26:21 ubuntu sshd[9203]: Accepted password for jamiegarcia from 22.126.5.41 port 14411 ssh2
+Aug 03 10:44:56 ubuntu sshd[2519]: sudo:    romerojasmine : TTY=pts/0 ; PWD=/home/romerojasmine ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:40:48 ubuntu sshd[1490]: session closed for user sprice
+Aug 02 14:29:55 ubuntu sshd[3441]: session closed for user jonesvirginia
+Aug 02 22:35:26 ubuntu sshd[2961]: session closed for user amandahernandez
+Aug 03 04:32:10 ubuntu sshd[7130]: session opened for user ismith by (uid=0)
+Aug 03 09:12:46 ubuntu sshd[2162]: Accepted password for cody76 from 110.239.98.141 port 34573 ssh2
+Aug 02 21:34:11 ubuntu sshd[7056]: Accepted password for vegamario from 58.249.47.83 port 36315 ssh2
+Aug 03 13:11:28 ubuntu sshd[4704]: Invalid user james72 from 86.82.63.60 port 65131
+Aug 02 19:14:18 ubuntu sshd[8555]: session opened for user joshua94 by (uid=0)
+Aug 03 01:52:12 ubuntu sshd[7934]: sudo:    lmiller : TTY=pts/0 ; PWD=/home/lmiller ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:59:45 ubuntu sshd[4297]: Invalid user rachaelflores from 159.242.109.27 port 36175
+Aug 03 12:28:42 ubuntu sshd[8731]: Accepted password for matthew12 from 201.56.131.179 port 64323 ssh2
+Aug 03 12:37:29 ubuntu sshd[7452]: Accepted password for susan33 from 223.204.75.158 port 2263 ssh2
+Aug 03 04:15:31 ubuntu sshd[4893]: sudo:    marie66 : TTY=pts/0 ; PWD=/home/marie66 ; USER=root ; COMMAND=/bin/ls
+Aug 03 02:11:23 ubuntu sshd[1781]: sudo:    starkdaniel : TTY=pts/0 ; PWD=/home/starkdaniel ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:43:55 ubuntu sshd[9497]: session opened for user amy00 by (uid=0)
+Aug 03 04:37:50 ubuntu sshd[6830]: Failed password for rodriguezchristopher from 133.173.153.219 port 32138 ssh2
+Aug 02 17:24:52 ubuntu sshd[4403]: sudo:    jamesmitchell : TTY=pts/0 ; PWD=/home/jamesmitchell ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:06:47 ubuntu sshd[1121]: sudo:    delgadosamantha : TTY=pts/0 ; PWD=/home/delgadosamantha ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:02:32 ubuntu sshd[3352]: Accepted password for robert62 from 158.196.21.205 port 21403 ssh2
+Aug 03 12:49:22 ubuntu sshd[9892]: Invalid user thompsoncindy from 119.42.97.249 port 35509
+Aug 02 20:35:42 ubuntu sshd[8927]: session opened for user colekevin by (uid=0)
+Aug 02 21:34:50 ubuntu sshd[4533]: Failed password for edgarmorgan from 214.229.99.175 port 43210 ssh2
+Aug 02 21:36:07 ubuntu sshd[4231]: session closed for user bfrench
+Aug 02 19:03:06 ubuntu sshd[5215]: session opened for user istone by (uid=0)
+Aug 03 04:25:21 ubuntu sshd[5719]: session opened for user rebeccamckinney by (uid=0)
+Aug 02 19:57:39 ubuntu sshd[2738]: Invalid user jeremiahgonzalez from 197.73.234.124 port 62093
+Aug 02 14:39:59 ubuntu sshd[8952]: session closed for user karen97
+Aug 03 01:59:38 ubuntu sshd[9053]: Invalid user shaneruiz from 72.210.156.52 port 45617
+Aug 03 12:20:28 ubuntu sshd[8933]: Invalid user lori70 from 62.238.229.59 port 26079
+Aug 03 04:30:53 ubuntu sshd[2182]: Accepted password for alexandradickerson from 18.181.84.65 port 58886 ssh2
+Aug 03 00:41:29 ubuntu sshd[4323]: Invalid user ryan45 from 204.70.228.44 port 49533
+Aug 02 14:51:49 ubuntu sshd[4398]: session closed for user juliannelson
+Aug 02 20:16:33 ubuntu sshd[1293]: session closed for user pateljustin
+Aug 03 05:50:48 ubuntu sshd[3940]: session closed for user samanthanunez
+Aug 03 00:18:16 ubuntu sshd[2729]: Failed password for woodevelyn from 215.19.103.150 port 18878 ssh2
+Aug 02 17:49:16 ubuntu sshd[6628]: session opened for user njohnson by (uid=0)
+Aug 02 21:26:28 ubuntu sshd[7259]: Accepted password for vkeith from 209.63.4.188 port 48165 ssh2
+Aug 02 18:30:42 ubuntu sshd[9050]: Failed password for jacksonnicole from 43.14.154.163 port 14422 ssh2
+Aug 03 03:49:12 ubuntu sshd[7368]: session opened for user marcus67 by (uid=0)
+Aug 03 10:22:23 ubuntu sshd[3753]: Accepted password for mary59 from 216.119.244.100 port 31102 ssh2
+Aug 03 02:31:20 ubuntu sshd[7667]: Failed password for swise from 207.163.39.44 port 11078 ssh2
+Aug 03 12:30:35 ubuntu sshd[9312]: sudo:    annetteedwards : TTY=pts/0 ; PWD=/home/annetteedwards ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:42:29 ubuntu sshd[1597]: Accepted password for jacksontheresa from 153.145.69.192 port 7620 ssh2
+Aug 03 04:08:43 ubuntu sshd[2817]: Accepted password for campbellangela from 175.17.175.24 port 64734 ssh2
+Aug 02 22:07:44 ubuntu sshd[9841]: Accepted password for gregory62 from 138.156.174.208 port 13296 ssh2
+Aug 02 20:13:39 ubuntu sshd[7746]: Invalid user michelle98 from 139.7.183.116 port 16275
+Aug 03 08:07:45 ubuntu sshd[6605]: Accepted password for melindaali from 216.2.69.191 port 61279 ssh2
+Aug 02 20:47:23 ubuntu sshd[8134]: session opened for user cwright by (uid=0)
+Aug 02 23:47:54 ubuntu sshd[6535]: session closed for user phughes
+Aug 03 12:32:57 ubuntu sshd[5556]: session closed for user joseph96
+Aug 03 03:42:09 ubuntu sshd[8747]: Accepted password for christopher07 from 114.227.196.66 port 36547 ssh2
+Aug 03 05:24:57 ubuntu sshd[9265]: Failed password for tylermontgomery from 113.214.57.95 port 27521 ssh2
+Aug 02 19:46:44 ubuntu sshd[2458]: Failed password for kennethparrish from 199.166.203.138 port 63327 ssh2
+Aug 02 15:16:10 ubuntu sshd[8705]: Failed password for pamela11 from 206.59.240.150 port 28093 ssh2
+Aug 03 14:13:11 ubuntu sshd[3568]: session closed for user qgould
+Aug 03 04:16:28 ubuntu sshd[3329]: session closed for user kelleygregory
+Aug 03 00:41:34 ubuntu sshd[6703]: sudo:    sgalloway : TTY=pts/0 ; PWD=/home/sgalloway ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:45:11 ubuntu sshd[4761]: Accepted password for twhite from 133.6.155.117 port 59795 ssh2
+Aug 03 09:15:58 ubuntu sshd[7841]: Accepted password for williamsrhonda from 199.39.54.148 port 16296 ssh2
+Aug 03 09:25:46 ubuntu sshd[6446]: Failed password for pguzman from 189.218.16.108 port 51214 ssh2
+Aug 03 00:36:18 ubuntu sshd[7231]: Failed password for christophersingh from 123.192.17.182 port 2572 ssh2
+Aug 03 00:48:27 ubuntu sshd[7784]: session closed for user fieldsbrianna
+Aug 03 08:16:31 ubuntu sshd[4166]: Accepted password for twilliams from 222.17.255.99 port 64085 ssh2
+Aug 02 20:16:38 ubuntu sshd[2276]: session closed for user pamelajones
+Aug 02 21:05:19 ubuntu sshd[8642]: Invalid user jessicasharp from 42.123.191.110 port 49925
+Aug 03 10:38:42 ubuntu sshd[7604]: Invalid user ufreeman from 138.57.12.215 port 8901
+Aug 02 16:12:49 ubuntu sshd[8180]: session closed for user randy19
+Aug 02 22:46:50 ubuntu sshd[2371]: session closed for user riverabrian
+Aug 03 11:50:59 ubuntu sshd[8037]: session closed for user joel17
+Aug 02 21:49:42 ubuntu sshd[3577]: session opened for user megan42 by (uid=0)
+Aug 02 16:38:51 ubuntu sshd[3919]: Accepted password for rhonda11 from 198.145.23.223 port 11983 ssh2
+Aug 02 14:22:53 ubuntu sshd[5137]: Accepted password for jenkinsalexandria from 140.193.107.99 port 62702 ssh2
+Aug 03 03:47:16 ubuntu sshd[9617]: sudo:    jennifer97 : TTY=pts/0 ; PWD=/home/jennifer97 ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:34:51 ubuntu sshd[8598]: sudo:    gilbert54 : TTY=pts/0 ; PWD=/home/gilbert54 ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:47:28 ubuntu sshd[7993]: sudo:    petersentodd : TTY=pts/0 ; PWD=/home/petersentodd ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:43:55 ubuntu sshd[6794]: sudo:    ian59 : TTY=pts/0 ; PWD=/home/ian59 ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:46:33 ubuntu sshd[6883]: Failed password for curryderek from 177.23.78.60 port 62594 ssh2
+Aug 03 12:24:38 ubuntu sshd[1315]: Accepted password for ochoadavid from 177.140.61.45 port 30099 ssh2
+Aug 03 11:43:02 ubuntu sshd[9107]: Invalid user ashley65 from 42.217.217.162 port 18745
+Aug 03 13:19:41 ubuntu sshd[5070]: session opened for user margaretflores by (uid=0)
+Aug 03 12:00:09 ubuntu sshd[4335]: session opened for user jennifer06 by (uid=0)
+Aug 03 09:08:38 ubuntu sshd[6129]: session opened for user ojohnson by (uid=0)
+Aug 03 02:39:29 ubuntu sshd[3374]: Invalid user vsmith from 209.60.135.64 port 20616
+Aug 02 23:31:44 ubuntu sshd[5624]: session opened for user williammitchell by (uid=0)
+Aug 02 18:46:02 ubuntu sshd[6977]: Invalid user fowlergary from 216.139.18.150 port 42594
+Aug 03 03:09:37 ubuntu sshd[3281]: Failed password for scottshelton from 219.3.25.147 port 6816 ssh2
+Aug 03 09:34:38 ubuntu sshd[3648]: session closed for user walvarez
+Aug 03 08:19:07 ubuntu sshd[7991]: Accepted password for brian79 from 185.252.55.48 port 10253 ssh2
+Aug 03 10:15:31 ubuntu sshd[7173]: Accepted password for vstewart from 220.117.139.104 port 30554 ssh2
+Aug 02 20:31:46 ubuntu sshd[9462]: session closed for user tuckervincent
+Aug 03 03:43:39 ubuntu sshd[9357]: sudo:    breannaerickson : TTY=pts/0 ; PWD=/home/breannaerickson ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:45:35 ubuntu sshd[6966]: Invalid user tiffany71 from 133.10.41.99 port 50454
+Aug 03 00:20:54 ubuntu sshd[3835]: sudo:    seanhodges : TTY=pts/0 ; PWD=/home/seanhodges ; USER=root ; COMMAND=/bin/ls
+Aug 03 14:20:02 ubuntu sshd[8901]: Failed password for williamsrhonda from 199.39.54.148 port 43598 ssh2
+Aug 03 10:42:33 ubuntu sshd[3026]: session opened for user jacobdeleon by (uid=0)
+Aug 02 21:24:46 ubuntu sshd[7773]: session opened for user wilsonrenee by (uid=0)
+Aug 03 00:56:14 ubuntu sshd[3529]: session opened for user stevensjoel by (uid=0)
+Aug 02 20:15:22 ubuntu sshd[1910]: Invalid user iparrish from 144.124.53.228 port 61120
+Aug 03 07:49:23 ubuntu sshd[4810]: session closed for user whitakerjustin
+Aug 03 09:22:11 ubuntu sshd[6516]: sudo:    wilsonapril : TTY=pts/0 ; PWD=/home/wilsonapril ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:24:55 ubuntu sshd[2172]: Invalid user pflores from 189.66.187.42 port 39235
+Aug 03 08:27:26 ubuntu sshd[7827]: Invalid user jenkinsalexandria from 140.193.107.99 port 3357
+Aug 03 08:37:31 ubuntu sshd[5790]: sudo:    hayesfrederick : TTY=pts/0 ; PWD=/home/hayesfrederick ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:50:32 ubuntu sshd[1977]: Accepted password for vwood from 161.191.47.161 port 39140 ssh2
+Aug 03 01:48:19 ubuntu sshd[2850]: Accepted password for bowerschad from 170.122.66.206 port 35162 ssh2
+Aug 03 05:27:57 ubuntu sshd[3050]: session closed for user robinosborne
+Aug 02 20:21:06 ubuntu sshd[8774]: session opened for user lambbrenda by (uid=0)
+Aug 02 20:29:53 ubuntu sshd[4648]: session closed for user melissa26
+Aug 03 02:20:30 ubuntu sshd[8829]: session opened for user brianfuentes by (uid=0)
+Aug 03 14:02:11 ubuntu sshd[7570]: sudo:    christinalewis : TTY=pts/0 ; PWD=/home/christinalewis ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:03:11 ubuntu sshd[8939]: Accepted password for fmendoza from 193.126.193.204 port 51673 ssh2
+Aug 03 10:16:34 ubuntu sshd[9763]: sudo:    ywaters : TTY=pts/0 ; PWD=/home/ywaters ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:20:16 ubuntu sshd[4708]: sudo:    vlawson : TTY=pts/0 ; PWD=/home/vlawson ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:49:36 ubuntu sshd[7415]: sudo:    sanchezrandy : TTY=pts/0 ; PWD=/home/sanchezrandy ; USER=root ; COMMAND=/bin/ls
+Aug 03 07:17:33 ubuntu sshd[3768]: session closed for user eileenanderson
+Aug 03 12:35:52 ubuntu sshd[5360]: session opened for user garrisonamanda by (uid=0)
+Aug 03 06:02:11 ubuntu sshd[5080]: session opened for user sarah98 by (uid=0)
+Aug 02 23:40:19 ubuntu sshd[1292]: Accepted password for clarkkaren from 152.7.15.96 port 47921 ssh2
+Aug 02 17:44:04 ubuntu sshd[7699]: session closed for user choigabriela
+Aug 03 09:23:14 ubuntu sshd[3553]: session opened for user jensentodd by (uid=0)
+Aug 03 01:48:41 ubuntu sshd[5829]: Failed password for mstevens from 120.171.44.136 port 15037 ssh2
+Aug 02 18:15:58 ubuntu sshd[8365]: session closed for user marilyncoleman
+Aug 02 15:50:34 ubuntu sshd[9512]: Failed password for mrodriguez from 70.36.188.91 port 61310 ssh2
+Aug 03 01:57:54 ubuntu sshd[9043]: Accepted password for cynthiacabrera from 148.125.101.80 port 55343 ssh2
+Aug 02 16:42:35 ubuntu sshd[9354]: sudo:    michaelbarry : TTY=pts/0 ; PWD=/home/michaelbarry ; USER=root ; COMMAND=/bin/ls
+Aug 03 07:49:11 ubuntu sshd[5629]: Accepted password for kaiserangela from 222.19.250.223 port 40574 ssh2
+Aug 03 14:04:34 ubuntu sshd[5509]: session opened for user dianagardner by (uid=0)
+Aug 03 09:26:53 ubuntu sshd[5881]: Failed password for kstevens from 138.31.178.167 port 55243 ssh2
+Aug 03 01:24:46 ubuntu sshd[2084]: sudo:    dolson : TTY=pts/0 ; PWD=/home/dolson ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:28:21 ubuntu sshd[9156]: Failed password for tammybarrett from 195.26.190.212 port 15132 ssh2
+Aug 03 12:50:15 ubuntu sshd[1437]: session closed for user bbrady
+Aug 03 07:44:51 ubuntu sshd[9541]: Accepted password for jessicajohnson from 3.252.103.22 port 40615 ssh2
+Aug 02 22:46:06 ubuntu sshd[6548]: Failed password for paulcain from 101.133.1.133 port 33511 ssh2
+Aug 03 13:53:28 ubuntu sshd[6653]: sudo:    suzannejarvis : TTY=pts/0 ; PWD=/home/suzannejarvis ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:38:14 ubuntu sshd[4723]: session closed for user jenniferking
+Aug 03 11:19:17 ubuntu sshd[6498]: session opened for user flowerssonya by (uid=0)
+Aug 03 09:30:24 ubuntu sshd[8595]: Accepted password for katiehoward from 140.246.254.187 port 57686 ssh2
+Aug 02 22:34:30 ubuntu sshd[3026]: sudo:    felicia86 : TTY=pts/0 ; PWD=/home/felicia86 ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:47:18 ubuntu sshd[7410]: sudo:    stephaniefleming : TTY=pts/0 ; PWD=/home/stephaniefleming ; USER=root ; COMMAND=/bin/ls
+Aug 03 06:45:23 ubuntu sshd[9454]: Failed password for blackkimberly from 43.36.74.25 port 38746 ssh2
+Aug 02 19:32:38 ubuntu sshd[6732]: Accepted password for lisa76 from 84.239.77.242 port 4822 ssh2
+Aug 02 19:11:35 ubuntu sshd[8175]: Accepted password for amy90 from 153.154.118.84 port 42064 ssh2
+Aug 02 21:05:19 ubuntu sshd[3825]: Accepted password for annlewis from 137.201.67.83 port 51614 ssh2
+Aug 03 11:12:59 ubuntu sshd[6314]: Invalid user danieljones from 156.25.202.123 port 48233
+Aug 03 05:50:57 ubuntu sshd[5420]: Failed password for hhurst from 59.115.67.166 port 51756 ssh2
+Aug 02 21:48:22 ubuntu sshd[5193]: Accepted password for whitekelli from 217.62.137.45 port 48679 ssh2
+Aug 03 14:19:25 ubuntu sshd[7463]: sudo:    fwilliams : TTY=pts/0 ; PWD=/home/fwilliams ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:22:55 ubuntu sshd[8384]: session opened for user wjacobson by (uid=0)
+Aug 03 02:00:02 ubuntu sshd[3326]: Failed password for christophermonroe from 202.28.9.143 port 21977 ssh2
+Aug 03 10:31:33 ubuntu sshd[3451]: session closed for user melissamarquez
+Aug 03 04:25:42 ubuntu sshd[1700]: session opened for user maria02 by (uid=0)
+Aug 03 02:07:24 ubuntu sshd[6548]: session closed for user seth78
+Aug 03 07:05:44 ubuntu sshd[2640]: Invalid user shawnkim from 125.47.20.214 port 12089
+Aug 03 01:12:44 ubuntu sshd[1402]: sudo:    antoniolyons : TTY=pts/0 ; PWD=/home/antoniolyons ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:14:08 ubuntu sshd[1253]: Failed password for carlosprice from 210.85.241.51 port 22909 ssh2
+Aug 03 10:35:36 ubuntu sshd[7587]: sudo:    albert42 : TTY=pts/0 ; PWD=/home/albert42 ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:38:48 ubuntu sshd[6115]: Failed password for robert26 from 207.34.149.101 port 58539 ssh2
+Aug 02 14:55:58 ubuntu sshd[6757]: Accepted password for pyang from 104.197.217.126 port 12421 ssh2
+Aug 02 16:24:11 ubuntu sshd[4681]: Invalid user lsimon from 217.39.248.7 port 48445
+Aug 02 21:13:16 ubuntu sshd[4662]: session opened for user lorimccoy by (uid=0)
+Aug 03 04:57:27 ubuntu sshd[2590]: Failed password for jacqueline00 from 159.8.17.171 port 20768 ssh2
+Aug 03 09:04:59 ubuntu sshd[2427]: session opened for user arthur28 by (uid=0)
+Aug 03 01:12:20 ubuntu sshd[6835]: Accepted password for jwong from 161.86.117.116 port 48138 ssh2
+Aug 03 02:11:35 ubuntu sshd[4671]: Invalid user harperhoward from 148.71.73.147 port 51532
+Aug 03 06:15:01 ubuntu sshd[6103]: Accepted password for vgarcia from 33.246.239.155 port 40955 ssh2
+Aug 03 04:00:08 ubuntu sshd[5965]: session closed for user swansonjason
+Aug 03 00:35:58 ubuntu sshd[6551]: sudo:    zimmermandylan : TTY=pts/0 ; PWD=/home/zimmermandylan ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:27:23 ubuntu sshd[2578]: Invalid user millerjanet from 192.18.128.188 port 33912
+Aug 02 22:35:03 ubuntu sshd[7004]: Accepted password for qsnow from 31.62.100.189 port 55037 ssh2
+Aug 03 01:04:02 ubuntu sshd[2293]: sudo:    john36 : TTY=pts/0 ; PWD=/home/john36 ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:06:05 ubuntu sshd[5452]: Failed password for nicolewebb from 193.197.218.55 port 46120 ssh2
+Aug 02 22:57:20 ubuntu sshd[6816]: Failed password for crystalandrews from 16.114.198.208 port 63808 ssh2
+Aug 03 14:20:55 ubuntu sshd[1349]: Invalid user weisspatricia from 162.132.82.103 port 53282
+Aug 03 07:12:33 ubuntu sshd[2350]: Accepted password for john36 from 219.121.171.218 port 63338 ssh2
+Aug 03 04:32:36 ubuntu sshd[3016]: session closed for user princedale
+Aug 02 22:29:52 ubuntu sshd[6486]: session opened for user brianfuentes by (uid=0)
+Aug 03 10:42:21 ubuntu sshd[4716]: session opened for user natashamontgomery by (uid=0)
+Aug 03 02:52:02 ubuntu sshd[4817]: Failed password for webbjeremy from 142.178.220.232 port 12636 ssh2
+Aug 02 19:37:56 ubuntu sshd[3879]: Accepted password for annettepowell from 211.72.172.214 port 4253 ssh2
+Aug 02 17:30:05 ubuntu sshd[6296]: sudo:    jacoblarson : TTY=pts/0 ; PWD=/home/jacoblarson ; USER=root ; COMMAND=/bin/ls
+Aug 03 06:51:07 ubuntu sshd[4398]: Invalid user katie55 from 35.200.80.24 port 30454
+Aug 03 13:29:18 ubuntu sshd[3927]: Invalid user ericellis from 219.163.119.75 port 31286
+Aug 02 16:18:40 ubuntu sshd[4623]: Accepted password for andersonkathleen from 187.13.174.126 port 5571 ssh2
+Aug 03 12:28:32 ubuntu sshd[6321]: Failed password for manuel52 from 209.10.113.115 port 36171 ssh2
+Aug 02 19:10:59 ubuntu sshd[7459]: Failed password for hendersoneric from 68.229.11.176 port 56554 ssh2
+Aug 02 23:46:11 ubuntu sshd[2673]: Invalid user stephaniewilliamson from 135.59.200.21 port 23395
+Aug 03 07:56:24 ubuntu sshd[2470]: Invalid user belljoseph from 173.242.244.77 port 44984
+Aug 02 16:59:12 ubuntu sshd[7754]: session closed for user aguilarelizabeth
+Aug 03 10:03:17 ubuntu sshd[7399]: Accepted password for mathisrichard from 195.196.60.121 port 10421 ssh2
+Aug 03 12:53:56 ubuntu sshd[5445]: session closed for user joycemichael
+Aug 02 14:48:11 ubuntu sshd[7242]: Failed password for brobinson from 168.70.114.136 port 18467 ssh2
+Aug 03 04:42:46 ubuntu sshd[4849]: Invalid user zachary88 from 135.61.86.82 port 44612
+Aug 03 13:41:56 ubuntu sshd[3514]: sudo:    whitejennifer : TTY=pts/0 ; PWD=/home/whitejennifer ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:09:18 ubuntu sshd[6428]: sudo:    ryan45 : TTY=pts/0 ; PWD=/home/ryan45 ; USER=root ; COMMAND=/bin/ls
+Aug 02 23:56:11 ubuntu sshd[8514]: sudo:    maxwellmonica : TTY=pts/0 ; PWD=/home/maxwellmonica ; USER=root ; COMMAND=/bin/ls
+Aug 02 17:14:06 ubuntu sshd[8009]: Invalid user mcclainallison from 22.2.236.223 port 47688
+Aug 02 23:07:45 ubuntu sshd[5401]: Accepted password for daniel53 from 209.124.61.66 port 11064 ssh2
+Aug 02 16:01:32 ubuntu sshd[8755]: Accepted password for lsolis from 57.232.218.38 port 13473 ssh2
+Aug 03 00:10:46 ubuntu sshd[3533]: Invalid user yriley from 183.139.113.88 port 7155
+Aug 02 16:17:38 ubuntu sshd[7260]: session opened for user amber93 by (uid=0)
+Aug 03 12:52:57 ubuntu sshd[4274]: Invalid user tamara30 from 212.161.129.102 port 28706
+Aug 02 20:25:04 ubuntu sshd[2247]: Accepted password for brownzoe from 209.244.88.243 port 15345 ssh2
+Aug 02 17:52:43 ubuntu sshd[5852]: session closed for user malvarez
+Aug 03 00:34:40 ubuntu sshd[2414]: sudo:    robertperez : TTY=pts/0 ; PWD=/home/robertperez ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:27:04 ubuntu sshd[2654]: session closed for user vbartlett
+Aug 03 13:49:56 ubuntu sshd[5895]: Invalid user xparsons from 217.251.16.204 port 39580
+Aug 03 06:22:10 ubuntu sshd[5758]: Failed password for deanrichard from 201.244.39.1 port 53112 ssh2
+Aug 03 10:16:40 ubuntu sshd[5051]: Invalid user slee from 210.106.181.73 port 13519
+Aug 02 20:04:40 ubuntu sshd[4214]: Accepted password for gcox from 157.253.229.204 port 34774 ssh2
+Aug 02 21:46:16 ubuntu sshd[9561]: Failed password for lisa29 from 202.148.216.21 port 58718 ssh2
+Aug 02 18:41:48 ubuntu sshd[2351]: session closed for user pamela68
+Aug 03 07:56:56 ubuntu sshd[5057]: session closed for user perezdenise
+Aug 03 04:42:31 ubuntu sshd[7143]: Failed password for plee from 154.25.79.152 port 39680 ssh2
+Aug 02 22:14:27 ubuntu sshd[2964]: Invalid user brittany79 from 203.193.179.124 port 47774
+Aug 03 02:35:53 ubuntu sshd[4899]: Invalid user brett31 from 192.47.172.225 port 38695
+Aug 03 12:17:54 ubuntu sshd[2284]: session closed for user jenniferharris
+Aug 02 22:10:53 ubuntu sshd[2655]: Failed password for deanmercer from 215.203.144.102 port 62258 ssh2
+Aug 02 20:14:16 ubuntu sshd[1609]: sudo:    mturner : TTY=pts/0 ; PWD=/home/mturner ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:51:14 ubuntu sshd[5054]: session opened for user christine54 by (uid=0)
+Aug 03 07:12:13 ubuntu sshd[2970]: Accepted password for kimberly28 from 200.5.227.90 port 63723 ssh2
+Aug 03 13:00:57 ubuntu sshd[8457]: Accepted password for christophermyers from 211.243.68.114 port 57295 ssh2
+Aug 02 17:41:40 ubuntu sshd[2523]: sudo:    lwilliams : TTY=pts/0 ; PWD=/home/lwilliams ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:10:10 ubuntu sshd[6246]: session opened for user whayes by (uid=0)
+Aug 03 00:42:47 ubuntu sshd[8060]: Accepted password for dbennett from 152.111.58.255 port 43510 ssh2
+Aug 02 20:51:47 ubuntu sshd[2863]: session opened for user paulspencer by (uid=0)
+Aug 02 18:56:07 ubuntu sshd[7049]: sudo:    sanchezrandy : TTY=pts/0 ; PWD=/home/sanchezrandy ; USER=root ; COMMAND=/bin/ls
+Aug 03 07:41:53 ubuntu sshd[3762]: session closed for user tjohnson
+Aug 03 13:18:01 ubuntu sshd[2758]: sudo:    thomasrichard : TTY=pts/0 ; PWD=/home/thomasrichard ; USER=root ; COMMAND=/bin/ls
+Aug 02 15:03:33 ubuntu sshd[5258]: session closed for user christopherrivas
+Aug 02 22:31:12 ubuntu sshd[5739]: sudo:    tamara11 : TTY=pts/0 ; PWD=/home/tamara11 ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:00:35 ubuntu sshd[3830]: Invalid user paul64 from 194.109.184.251 port 49504
+Aug 03 05:53:53 ubuntu sshd[3900]: Accepted password for cheryl42 from 163.173.157.225 port 11411 ssh2
+Aug 03 10:24:42 ubuntu sshd[2733]: Invalid user xmiller from 130.146.157.50 port 28432
+Aug 03 14:13:57 ubuntu sshd[2127]: session opened for user sherrymckinney by (uid=0)
+Aug 03 05:59:11 ubuntu sshd[3869]: session opened for user natashamontgomery by (uid=0)
+Aug 03 12:20:23 ubuntu sshd[7502]: session opened for user mary09 by (uid=0)
+Aug 03 11:25:07 ubuntu sshd[5430]: Failed password for larry05 from 41.144.40.84 port 40116 ssh2
+Aug 03 10:45:53 ubuntu sshd[4058]: Failed password for rodneyingram from 195.197.242.2 port 24615 ssh2
+Aug 02 17:15:30 ubuntu sshd[9949]: session opened for user hernandezjonathon by (uid=0)
+Aug 02 19:13:45 ubuntu sshd[2173]: Invalid user wmeza from 212.34.71.3 port 55747
+Aug 02 21:58:35 ubuntu sshd[4523]: Invalid user gordonjoseph from 213.174.30.46 port 12101
+Aug 03 11:25:04 ubuntu sshd[2215]: session opened for user tiffany71 by (uid=0)
+Aug 03 05:17:36 ubuntu sshd[6958]: Invalid user william45 from 61.215.107.169 port 4764
+Aug 03 01:06:51 ubuntu sshd[5946]: session closed for user cantrelltracy
+Aug 03 09:43:51 ubuntu sshd[1802]: Failed password for vanessajohnson from 193.120.244.3 port 1531 ssh2
+Aug 03 03:58:51 ubuntu sshd[6256]: Accepted password for rubiojustin from 38.147.231.213 port 2633 ssh2
+Aug 03 03:38:56 ubuntu sshd[4639]: Invalid user boyerscott from 204.200.38.55 port 28723
+Aug 03 14:09:11 ubuntu sshd[8203]: session opened for user michaelcox by (uid=0)
+Aug 02 14:32:43 ubuntu sshd[3212]: session opened for user barbara25 by (uid=0)
+Aug 03 04:23:12 ubuntu sshd[8127]: Invalid user dawnjones from 61.20.212.194 port 35589
+Aug 02 14:21:36 ubuntu sshd[7366]: Accepted password for rubiojustin from 38.147.231.213 port 30530 ssh2
+Aug 02 14:46:33 ubuntu sshd[9907]: session closed for user wmedina
+Aug 03 11:27:43 ubuntu sshd[8481]: Invalid user warrenjeremy from 130.36.137.24 port 20447
+Aug 02 18:30:33 ubuntu sshd[5758]: session closed for user vwarren
+Aug 02 19:55:36 ubuntu sshd[2104]: sudo:    hawkinslaura : TTY=pts/0 ; PWD=/home/hawkinslaura ; USER=root ; COMMAND=/bin/ls
+Aug 02 14:57:26 ubuntu sshd[8153]: Invalid user leeronald from 212.181.27.240 port 65287
+Aug 03 02:43:03 ubuntu sshd[5161]: session opened for user angela79 by (uid=0)
+Aug 03 07:35:51 ubuntu sshd[6423]: session closed for user christiananderson
+Aug 02 16:08:11 ubuntu sshd[4304]: Accepted password for christopher58 from 60.88.63.187 port 15135 ssh2
+Aug 02 19:22:31 ubuntu sshd[2639]: Failed password for hsandoval from 135.12.98.248 port 14022 ssh2
+Aug 02 21:41:41 ubuntu sshd[4128]: session opened for user mathisrichard by (uid=0)
+Aug 02 18:53:25 ubuntu sshd[5416]: Invalid user hendersonrachel from 205.47.237.4 port 12931
+Aug 03 03:49:53 ubuntu sshd[1649]: sudo:    ryanortega : TTY=pts/0 ; PWD=/home/ryanortega ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:05:54 ubuntu sshd[3309]: sudo:    kevin74 : TTY=pts/0 ; PWD=/home/kevin74 ; USER=root ; COMMAND=/bin/ls
+Aug 03 13:23:29 ubuntu sshd[3840]: Failed password for thorntonchristopher from 189.189.137.18 port 50714 ssh2
+Aug 02 18:45:19 ubuntu sshd[8480]: session opened for user scotthess by (uid=0)
+Aug 03 02:27:29 ubuntu sshd[9813]: sudo:    patrickpearson : TTY=pts/0 ; PWD=/home/patrickpearson ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:05:00 ubuntu sshd[4116]: Failed password for jacqueline00 from 159.8.17.171 port 1305 ssh2
+Aug 03 01:48:08 ubuntu sshd[8963]: Invalid user thomas52 from 202.120.210.189 port 31304
+Aug 03 05:46:44 ubuntu sshd[5591]: Failed password for akelley from 208.25.85.35 port 31684 ssh2
+Aug 02 22:02:45 ubuntu sshd[2053]: Invalid user taylorronald from 206.222.33.30 port 20812
+Aug 03 04:06:27 ubuntu sshd[8236]: sudo:    steinrebecca : TTY=pts/0 ; PWD=/home/steinrebecca ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:58:59 ubuntu sshd[9617]: Invalid user kcole from 103.108.177.144 port 54684
+Aug 02 22:47:37 ubuntu sshd[4056]: sudo:    kristenwilliams : TTY=pts/0 ; PWD=/home/kristenwilliams ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:54:05 ubuntu sshd[7233]: session closed for user vwalker
+Aug 03 13:48:07 ubuntu sshd[3426]: session closed for user georgesamantha
+Aug 03 12:27:51 ubuntu sshd[7654]: Accepted password for matthew63 from 210.95.200.65 port 54210 ssh2
+Aug 02 18:40:44 ubuntu sshd[6223]: Invalid user thomas38 from 163.75.247.130 port 58288
+Aug 03 00:01:45 ubuntu sshd[9050]: session closed for user josephnguyen
+Aug 03 04:08:33 ubuntu sshd[7030]: Accepted password for josephwilliams from 51.149.157.58 port 27003 ssh2
+Aug 03 13:09:27 ubuntu sshd[2491]: Failed password for anewman from 101.197.242.252 port 24554 ssh2
+Aug 02 22:04:47 ubuntu sshd[3070]: session opened for user onunez by (uid=0)
+Aug 02 18:11:07 ubuntu sshd[7597]: Invalid user hudsondeborah from 124.50.253.88 port 44569
+Aug 03 02:06:16 ubuntu sshd[6005]: Accepted password for pdudley from 8.117.9.159 port 40154 ssh2
+Aug 02 18:43:23 ubuntu sshd[7273]: session opened for user kholmes by (uid=0)
+Aug 03 06:42:57 ubuntu sshd[7850]: Failed password for beckbrenda from 218.112.32.134 port 47513 ssh2
+Aug 03 12:29:56 ubuntu sshd[1044]: Failed password for wlindsey from 208.184.249.235 port 50021 ssh2
+Aug 03 02:19:10 ubuntu sshd[6119]: Accepted password for cathy08 from 29.188.4.106 port 54980 ssh2
+Aug 02 21:01:49 ubuntu sshd[9490]: Accepted password for jacobdeleon from 130.22.250.109 port 7173 ssh2
+Aug 03 07:54:05 ubuntu sshd[7012]: Invalid user barbara25 from 221.116.163.98 port 32650
+Aug 03 08:46:27 ubuntu sshd[9655]: session opened for user phill by (uid=0)
+Aug 02 21:30:12 ubuntu sshd[1284]: Failed password for cjones from 41.29.59.148 port 60869 ssh2
+Aug 02 23:26:04 ubuntu sshd[9468]: Failed password for djones from 215.124.204.86 port 12452 ssh2
+Aug 02 20:08:09 ubuntu sshd[1013]: session opened for user pgibson by (uid=0)
+Aug 03 03:53:46 ubuntu sshd[7630]: Invalid user garcialouis from 154.219.163.154 port 11933
+Aug 02 18:52:15 ubuntu sshd[2019]: Failed password for joemoon from 204.142.75.217 port 35632 ssh2
+Aug 03 12:11:39 ubuntu sshd[5091]: sudo:    ruben23 : TTY=pts/0 ; PWD=/home/ruben23 ; USER=root ; COMMAND=/bin/ls
+Aug 02 15:54:10 ubuntu sshd[3464]: Invalid user shannon59 from 222.33.182.187 port 26634
+Aug 02 17:50:38 ubuntu sshd[7096]: Failed password for lindsaypowers from 129.162.155.120 port 10556 ssh2
+Aug 02 16:33:35 ubuntu sshd[5509]: session closed for user owalker
+Aug 03 08:57:27 ubuntu sshd[3710]: session closed for user hernandezamanda
+Aug 02 14:35:03 ubuntu sshd[1898]: Failed password for morrisonyvonne from 140.222.9.56 port 41045 ssh2
+Aug 02 19:51:38 ubuntu sshd[4035]: Invalid user deanmercer from 215.203.144.102 port 59207
+Aug 03 07:47:08 ubuntu sshd[2825]: Invalid user singhtrevor from 77.199.162.62 port 2338
+Aug 02 22:16:05 ubuntu sshd[6258]: session opened for user charles36 by (uid=0)
+Aug 02 17:05:10 ubuntu sshd[6039]: sudo:    mcdonaldlatasha : TTY=pts/0 ; PWD=/home/mcdonaldlatasha ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:28:09 ubuntu sshd[2749]: session opened for user breanna36 by (uid=0)
+Aug 02 21:20:56 ubuntu sshd[5979]: sudo:    kevinlyons : TTY=pts/0 ; PWD=/home/kevinlyons ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:46:07 ubuntu sshd[5401]: session closed for user charles20
+Aug 02 18:18:44 ubuntu sshd[9275]: session closed for user garciacarlos
+Aug 03 03:53:27 ubuntu sshd[6572]: Failed password for branditate from 13.233.176.84 port 13206 ssh2
+Aug 02 21:33:03 ubuntu sshd[6308]: session closed for user hhernandez
+Aug 03 01:34:06 ubuntu sshd[9744]: session closed for user peterwashington
+Aug 02 20:17:12 ubuntu sshd[7590]: sudo:    rwood : TTY=pts/0 ; PWD=/home/rwood ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:20:29 ubuntu sshd[6925]: sudo:    jessicasharp : TTY=pts/0 ; PWD=/home/jessicasharp ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:20:02 ubuntu sshd[2401]: session closed for user andersonderek
+Aug 03 01:10:40 ubuntu sshd[9670]: session closed for user jenniferwalton
+Aug 02 16:27:38 ubuntu sshd[2324]: Accepted password for rmurray from 142.141.3.156 port 27678 ssh2
+Aug 02 15:12:44 ubuntu sshd[9572]: session closed for user rothjennifer
+Aug 03 02:59:16 ubuntu sshd[9834]: Invalid user mcdonaldfelicia from 220.52.233.40 port 2606
+Aug 02 15:31:42 ubuntu sshd[2204]: Failed password for newmanamanda from 98.38.53.219 port 11688 ssh2
+Aug 03 06:43:10 ubuntu sshd[9949]: Accepted password for arnoldlindsay from 168.225.235.240 port 30215 ssh2
+Aug 03 05:56:40 ubuntu sshd[1323]: session closed for user marygeorge
+Aug 03 13:05:19 ubuntu sshd[3914]: session opened for user delgadosamantha by (uid=0)
+Aug 02 20:44:49 ubuntu sshd[9284]: session closed for user grant37
+Aug 02 19:31:10 ubuntu sshd[1519]: Failed password for garcialouis from 154.219.163.154 port 6248 ssh2
+Aug 03 13:37:18 ubuntu sshd[2971]: session closed for user jackiebradford
+Aug 02 16:36:37 ubuntu sshd[1529]: session closed for user elizabeth51
+Aug 03 01:45:57 ubuntu sshd[8222]: Invalid user john68 from 5.183.172.157 port 34690
+Aug 03 01:27:40 ubuntu sshd[9289]: Accepted password for xross from 151.196.243.92 port 59178 ssh2
+Aug 02 15:49:39 ubuntu sshd[1565]: session opened for user eadams by (uid=0)
+Aug 02 15:28:54 ubuntu sshd[7305]: Failed password for popetracy from 208.122.6.121 port 2096 ssh2
+Aug 03 01:31:48 ubuntu sshd[6067]: Accepted password for piercealexis from 222.215.248.209 port 47766 ssh2
+Aug 02 23:45:27 ubuntu sshd[4215]: session opened for user joseph85 by (uid=0)
+Aug 03 03:05:29 ubuntu sshd[4006]: session opened for user frank78 by (uid=0)
+Aug 03 09:01:05 ubuntu sshd[4248]: Accepted password for sethhayes from 60.174.135.214 port 47646 ssh2
+Aug 03 05:26:25 ubuntu sshd[6524]: sudo:    kristin03 : TTY=pts/0 ; PWD=/home/kristin03 ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:42:55 ubuntu sshd[7506]: sudo:    uburton : TTY=pts/0 ; PWD=/home/uburton ; USER=root ; COMMAND=/bin/ls
+Aug 03 02:36:17 ubuntu sshd[3688]: session closed for user jaredmerritt
+Aug 02 22:18:13 ubuntu sshd[4242]: session opened for user juliemaldonado by (uid=0)
+Aug 03 01:44:22 ubuntu sshd[3252]: Accepted password for stonejessica from 177.3.56.85 port 36926 ssh2
+Aug 02 20:26:07 ubuntu sshd[7616]: Accepted password for triciachapman from 219.214.7.188 port 30135 ssh2
+Aug 03 12:26:19 ubuntu sshd[4847]: Invalid user cassandraflores from 5.19.43.213 port 40960
+Aug 03 02:26:32 ubuntu sshd[7161]: sudo:    iwright : TTY=pts/0 ; PWD=/home/iwright ; USER=root ; COMMAND=/bin/ls
+Aug 02 15:46:41 ubuntu sshd[1615]: Failed password for pwade from 15.55.247.21 port 7767 ssh2
+Aug 02 22:23:54 ubuntu sshd[4010]: session closed for user martinezcaleb
+Aug 03 05:15:00 ubuntu sshd[2646]: sudo:    rachel90 : TTY=pts/0 ; PWD=/home/rachel90 ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:05:17 ubuntu sshd[9514]: Accepted password for lweiss from 60.220.39.222 port 35355 ssh2
+Aug 03 10:34:10 ubuntu sshd[5318]: Invalid user tammybarrett from 195.26.190.212 port 50630
+Aug 02 16:46:45 ubuntu sshd[1764]: session opened for user danielsclinton by (uid=0)
+Aug 03 09:15:12 ubuntu sshd[7450]: session opened for user istafford by (uid=0)
+Aug 02 19:32:54 ubuntu sshd[4523]: sudo:    bellbrett : TTY=pts/0 ; PWD=/home/bellbrett ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:44:57 ubuntu sshd[9492]: Failed password for ytaylor from 16.156.30.156 port 55025 ssh2
+Aug 03 09:11:00 ubuntu sshd[1222]: Invalid user jacqueline02 from 169.173.88.99 port 19122
+Aug 02 23:55:07 ubuntu sshd[9351]: Failed password for robertestrada from 43.69.105.35 port 43298 ssh2
+Aug 02 21:48:50 ubuntu sshd[1033]: Accepted password for gordonjoseph from 213.174.30.46 port 6664 ssh2
+Aug 02 21:47:52 ubuntu sshd[4882]: sudo:    renee00 : TTY=pts/0 ; PWD=/home/renee00 ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:34:36 ubuntu sshd[7822]: session closed for user charlessharp
+Aug 03 07:23:39 ubuntu sshd[9251]: Failed password for gregory62 from 221.14.52.75 port 1030 ssh2
+Aug 03 03:38:28 ubuntu sshd[6650]: sudo:    xrodriguez : TTY=pts/0 ; PWD=/home/xrodriguez ; USER=root ; COMMAND=/bin/ls
+Aug 03 07:25:44 ubuntu sshd[2174]: session closed for user nwise
+Aug 02 22:24:55 ubuntu sshd[3638]: sudo:    hsandoval : TTY=pts/0 ; PWD=/home/hsandoval ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:11:35 ubuntu sshd[9638]: session closed for user allen38
+Aug 03 10:01:55 ubuntu sshd[3402]: session opened for user michele54 by (uid=0)
+Aug 03 05:06:18 ubuntu sshd[6410]: Failed password for erin31 from 218.84.243.74 port 22464 ssh2
+Aug 03 09:20:00 ubuntu sshd[2227]: sudo:    debralawson : TTY=pts/0 ; PWD=/home/debralawson ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:28:04 ubuntu sshd[1107]: session opened for user pattersoncrystal by (uid=0)
+Aug 02 18:03:58 ubuntu sshd[3290]: session opened for user lisa17 by (uid=0)
+Aug 03 04:17:28 ubuntu sshd[9747]: sudo:    jennifer50 : TTY=pts/0 ; PWD=/home/jennifer50 ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:33:50 ubuntu sshd[8683]: Failed password for edwin79 from 139.43.65.7 port 54800 ssh2
+Aug 02 23:23:55 ubuntu sshd[2020]: session opened for user amymiller by (uid=0)
+Aug 02 20:01:07 ubuntu sshd[9481]: Failed password for mariaspence from 189.209.3.217 port 30384 ssh2
+Aug 02 17:43:57 ubuntu sshd[8056]: Accepted password for vwarren from 207.63.94.49 port 21316 ssh2
+Aug 02 22:08:44 ubuntu sshd[9693]: sudo:    bnavarro : TTY=pts/0 ; PWD=/home/bnavarro ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:31:14 ubuntu sshd[3486]: Accepted password for thomasrichard from 142.164.159.249 port 40812 ssh2
+Aug 03 13:16:40 ubuntu sshd[5940]: Invalid user wchandler from 56.25.202.185 port 46695
+Aug 03 09:48:46 ubuntu sshd[7348]: session closed for user rodneydavis
+Aug 02 15:09:50 ubuntu sshd[6779]: session opened for user jroberts by (uid=0)
+Aug 03 07:41:12 ubuntu sshd[1272]: session closed for user jeremythomas
+Aug 03 01:30:07 ubuntu sshd[8521]: Accepted password for aguilarjennifer from 155.215.108.186 port 62805 ssh2
+Aug 03 08:37:25 ubuntu sshd[6932]: sudo:    browndavid : TTY=pts/0 ; PWD=/home/browndavid ; USER=root ; COMMAND=/bin/ls
+Aug 03 07:08:04 ubuntu sshd[1571]: Accepted password for edwardsmaria from 169.231.38.172 port 51800 ssh2
+Aug 03 09:25:49 ubuntu sshd[7195]: sudo:    kerriward : TTY=pts/0 ; PWD=/home/kerriward ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:18:06 ubuntu sshd[6560]: session closed for user fischerdaniel
+Aug 03 08:32:13 ubuntu sshd[6689]: sudo:    bfrench : TTY=pts/0 ; PWD=/home/bfrench ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:26:27 ubuntu sshd[3203]: Failed password for saramarsh from 186.104.47.209 port 11622 ssh2
+Aug 03 13:38:25 ubuntu sshd[9290]: Invalid user richarddavis from 211.13.3.144 port 55367
+Aug 03 07:21:00 ubuntu sshd[7928]: session closed for user mcdonaldmichael
+Aug 02 15:31:54 ubuntu sshd[3306]: Accepted password for beltranalexandra from 53.240.140.130 port 52921 ssh2
+Aug 02 20:26:50 ubuntu sshd[5823]: Failed password for shannonclark from 60.8.28.129 port 20308 ssh2
+Aug 02 16:26:09 ubuntu sshd[7020]: Failed password for richardtran from 150.250.174.68 port 23549 ssh2
+Aug 02 18:55:18 ubuntu sshd[5682]: Accepted password for katherine47 from 203.217.167.74 port 34286 ssh2
+Aug 03 13:27:29 ubuntu sshd[1904]: sudo:    joannetorres : TTY=pts/0 ; PWD=/home/joannetorres ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:10:47 ubuntu sshd[2234]: sudo:    kabbott : TTY=pts/0 ; PWD=/home/kabbott ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:00:55 ubuntu sshd[2157]: Invalid user ebonilla from 214.51.52.227 port 47594
+Aug 03 13:03:18 ubuntu sshd[1909]: Invalid user ihoward from 223.71.227.73 port 33368
+Aug 03 14:04:16 ubuntu sshd[9801]: Invalid user pflores from 189.66.187.42 port 25721
+Aug 03 07:15:02 ubuntu sshd[7382]: Failed password for perezdenise from 156.12.67.228 port 23724 ssh2
+Aug 02 14:59:24 ubuntu sshd[2179]: Accepted password for jeffreychapman from 216.50.107.164 port 64387 ssh2
+Aug 03 08:24:37 ubuntu sshd[8129]: sudo:    diaznathaniel : TTY=pts/0 ; PWD=/home/diaznathaniel ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:05:16 ubuntu sshd[9257]: Invalid user mhall from 58.13.45.165 port 41312
+Aug 03 06:52:00 ubuntu sshd[5224]: Invalid user ericellis from 219.163.119.75 port 35806
+Aug 03 03:49:56 ubuntu sshd[9306]: Failed password for loribooker from 41.144.102.125 port 54367 ssh2
+Aug 03 12:12:08 ubuntu sshd[1603]: Failed password for richardporter from 58.134.74.42 port 39423 ssh2
+Aug 03 08:13:04 ubuntu sshd[1537]: Failed password for heather78 from 98.244.179.135 port 19049 ssh2
+Aug 02 23:15:16 ubuntu sshd[1253]: sudo:    angel36 : TTY=pts/0 ; PWD=/home/angel36 ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:34:43 ubuntu sshd[7353]: Accepted password for coxkimberly from 149.226.95.88 port 47352 ssh2
+Aug 02 20:56:45 ubuntu sshd[3000]: Invalid user mary14 from 32.32.7.192 port 2774
+Aug 02 18:51:27 ubuntu sshd[1187]: Accepted password for mclaughlinnathaniel from 198.119.98.191 port 24605 ssh2
+Aug 02 18:07:23 ubuntu sshd[6589]: Failed password for bellis from 187.80.10.88 port 35751 ssh2
+Aug 02 19:05:14 ubuntu sshd[6218]: Failed password for hwilliams from 19.142.225.239 port 60887 ssh2
+Aug 02 23:43:25 ubuntu sshd[1090]: session closed for user oliviawhite
+Aug 02 23:39:32 ubuntu sshd[3871]: Invalid user ryan33 from 199.4.221.59 port 57082
+Aug 03 02:44:03 ubuntu sshd[9387]: Accepted password for khankathryn from 62.39.180.217 port 7182 ssh2
+Aug 02 20:28:06 ubuntu sshd[5941]: Accepted password for jamesbryant from 2.87.89.3 port 7850 ssh2
+Aug 03 07:31:23 ubuntu sshd[2993]: session opened for user ochoadavid by (uid=0)
+Aug 03 04:41:06 ubuntu sshd[6064]: session closed for user lori78
+Aug 03 05:00:11 ubuntu sshd[6518]: Failed password for warrendavid from 25.49.200.106 port 16499 ssh2
+Aug 03 01:06:33 ubuntu sshd[8247]: Failed password for shelley61 from 205.204.91.83 port 42369 ssh2
+Aug 03 13:42:59 ubuntu sshd[8302]: session opened for user wallveronica by (uid=0)
+Aug 03 06:59:51 ubuntu sshd[7135]: Accepted password for cbrennan from 95.14.27.3 port 37666 ssh2
+Aug 03 12:14:17 ubuntu sshd[6981]: Invalid user rmartinez from 211.83.73.30 port 48639
+Aug 03 14:10:21 ubuntu sshd[5449]: Accepted password for wesleytapia from 19.97.201.57 port 8997 ssh2
+Aug 02 15:30:59 ubuntu sshd[9995]: Invalid user ortegajennifer from 19.164.78.85 port 43614
+Aug 03 05:13:46 ubuntu sshd[3601]: Invalid user mjackson from 223.27.244.222 port 1549
+Aug 03 03:22:04 ubuntu sshd[5554]: session closed for user odomkevin
+Aug 02 15:02:04 ubuntu sshd[4814]: sudo:    moliver : TTY=pts/0 ; PWD=/home/moliver ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:34:45 ubuntu sshd[8493]: sudo:    davisamy : TTY=pts/0 ; PWD=/home/davisamy ; USER=root ; COMMAND=/bin/ls
+Aug 03 02:13:59 ubuntu sshd[8298]: Failed password for anthonybarrett from 143.110.177.27 port 54498 ssh2
+Aug 03 09:43:57 ubuntu sshd[7200]: Failed password for georgewallace from 135.7.227.128 port 64457 ssh2
+Aug 03 01:13:55 ubuntu sshd[5265]: Accepted password for xmurray from 165.49.9.69 port 25587 ssh2
+Aug 03 13:57:43 ubuntu sshd[5240]: sudo:    david54 : TTY=pts/0 ; PWD=/home/david54 ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:25:49 ubuntu sshd[7274]: Failed password for bspencer from 204.148.117.178 port 52415 ssh2
+Aug 02 16:12:33 ubuntu sshd[1860]: Accepted password for jerome19 from 181.37.120.72 port 63615 ssh2
+Aug 02 22:57:25 ubuntu sshd[4998]: Invalid user ramosjustin from 114.217.236.92 port 9221
+Aug 03 04:47:09 ubuntu sshd[4037]: Failed password for bwhite from 218.43.174.45 port 60600 ssh2
+Aug 03 11:34:17 ubuntu sshd[9267]: session opened for user gabriellemcknight by (uid=0)
+Aug 02 23:53:12 ubuntu sshd[1644]: session opened for user ylucero by (uid=0)
+Aug 02 17:20:39 ubuntu sshd[8610]: Invalid user oflores from 160.217.97.243 port 15703
+Aug 03 01:28:05 ubuntu sshd[9423]: session opened for user steven92 by (uid=0)
+Aug 02 14:36:38 ubuntu sshd[3066]: Failed password for kimberly37 from 22.228.160.132 port 18769 ssh2
+Aug 02 22:46:28 ubuntu sshd[7139]: session opened for user christopher23 by (uid=0)
+Aug 02 23:58:43 ubuntu sshd[9908]: Failed password for matthew14 from 29.133.178.38 port 39225 ssh2
+Aug 03 01:19:16 ubuntu sshd[7733]: Invalid user davidmiller from 22.81.221.9 port 13013
+Aug 03 05:34:34 ubuntu sshd[6285]: session closed for user jason69
+Aug 03 05:19:01 ubuntu sshd[6892]: Accepted password for romerojoseph from 170.120.169.187 port 39195 ssh2
+Aug 02 22:56:40 ubuntu sshd[4205]: session closed for user caseyrobert
+Aug 03 09:55:21 ubuntu sshd[1217]: Accepted password for robert59 from 144.102.58.207 port 28360 ssh2
+Aug 03 12:56:15 ubuntu sshd[5366]: sudo:    wilsonsarah : TTY=pts/0 ; PWD=/home/wilsonsarah ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:59:31 ubuntu sshd[6955]: Accepted password for moorealbert from 217.81.84.48 port 6746 ssh2
+Aug 02 14:57:48 ubuntu sshd[9582]: Invalid user matthew14 from 29.133.178.38 port 40973
+Aug 03 05:17:55 ubuntu sshd[9981]: Invalid user vegamario from 58.249.47.83 port 55419
+Aug 03 13:53:17 ubuntu sshd[9771]: sudo:    ckelly : TTY=pts/0 ; PWD=/home/ckelly ; USER=root ; COMMAND=/bin/ls
+Aug 03 07:12:49 ubuntu sshd[6500]: Invalid user donnathomas from 148.187.61.226 port 54187
+Aug 02 14:41:26 ubuntu sshd[3922]: Failed password for ujones from 79.123.70.40 port 41139 ssh2
+Aug 02 21:55:24 ubuntu sshd[2126]: Accepted password for wrogers from 201.171.42.160 port 41448 ssh2
+Aug 03 13:18:06 ubuntu sshd[9991]: session opened for user pattersoncrystal by (uid=0)
+Aug 02 18:29:35 ubuntu sshd[3584]: Failed password for xstokes from 151.213.254.93 port 20569 ssh2
+Aug 02 22:12:20 ubuntu sshd[6157]: Failed password for angelaarcher from 188.172.225.97 port 59477 ssh2
+Aug 03 06:09:18 ubuntu sshd[1797]: Failed password for charlesjason from 153.25.173.111 port 55926 ssh2
+Aug 02 14:43:41 ubuntu sshd[8463]: session closed for user hbowen
+Aug 02 23:14:48 ubuntu sshd[9432]: session closed for user howardpatricia
+Aug 03 06:26:54 ubuntu sshd[9842]: Invalid user gloria45 from 3.95.206.139 port 64704
+Aug 03 13:32:12 ubuntu sshd[3936]: Invalid user whitneyfisher from 198.181.41.41 port 7097
+Aug 02 20:33:45 ubuntu sshd[7836]: session closed for user caseyjessica
+Aug 03 04:10:31 ubuntu sshd[2871]: Accepted password for donaldsmith from 153.93.44.100 port 11968 ssh2
+Aug 02 22:58:51 ubuntu sshd[8887]: session closed for user annette52
+Aug 02 21:50:14 ubuntu sshd[6667]: Accepted password for gabrielwilliams from 210.54.150.233 port 59746 ssh2
+Aug 02 23:04:05 ubuntu sshd[4585]: Invalid user peterwashington from 208.20.234.3 port 31031
+Aug 03 10:57:58 ubuntu sshd[1170]: session opened for user phawkins by (uid=0)
+Aug 02 20:15:07 ubuntu sshd[7024]: sudo:    sandra07 : TTY=pts/0 ; PWD=/home/sandra07 ; USER=root ; COMMAND=/bin/ls
+Aug 03 06:17:46 ubuntu sshd[4233]: Accepted password for lmiller from 135.108.9.192 port 37287 ssh2
+Aug 03 06:47:06 ubuntu sshd[1051]: sudo:    vkhan : TTY=pts/0 ; PWD=/home/vkhan ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:13:45 ubuntu sshd[3483]: Accepted password for danielle86 from 207.237.64.1 port 2665 ssh2
+Aug 02 15:03:41 ubuntu sshd[2393]: Invalid user garrisonjustin from 85.78.96.11 port 16951
+Aug 02 16:38:33 ubuntu sshd[5067]: sudo:    ejensen : TTY=pts/0 ; PWD=/home/ejensen ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:46:10 ubuntu sshd[5515]: session opened for user bryanlinda by (uid=0)
+Aug 03 06:09:28 ubuntu sshd[8475]: Invalid user christopher48 from 207.98.115.98 port 22825
+Aug 03 03:34:52 ubuntu sshd[7827]: Invalid user christopher80 from 152.65.255.67 port 9015
+Aug 02 22:46:30 ubuntu sshd[3839]: Failed password for cassandrashah from 144.252.200.226 port 24815 ssh2
+Aug 03 06:10:58 ubuntu sshd[7896]: Accepted password for danielball from 12.22.199.235 port 9259 ssh2
+Aug 03 07:52:18 ubuntu sshd[9861]: Failed password for slee from 210.106.181.73 port 31939 ssh2
+Aug 03 00:36:17 ubuntu sshd[5458]: Accepted password for mjones from 137.39.223.221 port 23537 ssh2
+Aug 03 02:18:15 ubuntu sshd[2802]: Failed password for andersonsteven from 197.245.114.1 port 60302 ssh2
+Aug 02 16:02:45 ubuntu sshd[5632]: Accepted password for sdavis from 26.153.190.101 port 12659 ssh2
+Aug 02 23:50:52 ubuntu sshd[3550]: session closed for user derrick50
+Aug 02 19:54:43 ubuntu sshd[4603]: session opened for user jenniferthomas by (uid=0)
+Aug 02 23:33:58 ubuntu sshd[9226]: sudo:    andrea94 : TTY=pts/0 ; PWD=/home/andrea94 ; USER=root ; COMMAND=/bin/ls
+Aug 02 18:44:03 ubuntu sshd[6486]: Accepted password for christopherbarnett from 168.132.88.231 port 64201 ssh2
+Aug 02 16:06:36 ubuntu sshd[2040]: sudo:    amanda91 : TTY=pts/0 ; PWD=/home/amanda91 ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:21:48 ubuntu sshd[9146]: Accepted password for mmccoy from 165.219.147.182 port 26063 ssh2
+Aug 02 15:58:50 ubuntu sshd[1227]: session opened for user jroberts by (uid=0)
+Aug 02 20:10:20 ubuntu sshd[7294]: sudo:    noah60 : TTY=pts/0 ; PWD=/home/noah60 ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:16:53 ubuntu sshd[8208]: session opened for user amcgrath by (uid=0)
+Aug 03 14:04:59 ubuntu sshd[1391]: Invalid user vincentelizabeth from 185.8.188.191 port 13674
+Aug 02 14:38:13 ubuntu sshd[2019]: Failed password for larsonlinda from 198.249.219.11 port 24016 ssh2
+Aug 03 13:46:38 ubuntu sshd[3260]: Accepted password for zacharyobrien from 176.168.0.198 port 36724 ssh2
+Aug 02 15:27:38 ubuntu sshd[2394]: session opened for user kennethparrish by (uid=0)
+Aug 02 17:00:22 ubuntu sshd[3364]: Accepted password for princedale from 149.61.198.195 port 59922 ssh2
+Aug 02 16:03:25 ubuntu sshd[9134]: sudo:    paceanita : TTY=pts/0 ; PWD=/home/paceanita ; USER=root ; COMMAND=/bin/ls
+Aug 03 13:30:24 ubuntu sshd[6934]: Failed password for xpatterson from 14.116.231.93 port 30495 ssh2
+Aug 02 17:32:57 ubuntu sshd[9025]: Invalid user kelly71 from 152.136.77.59 port 3890
+Aug 03 10:59:08 ubuntu sshd[5205]: session closed for user fgillespie
+Aug 03 02:29:06 ubuntu sshd[6893]: sudo:    sprice : TTY=pts/0 ; PWD=/home/sprice ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:52:21 ubuntu sshd[1145]: session closed for user melanielopez
+Aug 02 15:15:21 ubuntu sshd[8698]: sudo:    rmanning : TTY=pts/0 ; PWD=/home/rmanning ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:44:29 ubuntu sshd[4622]: session opened for user wilsonapril by (uid=0)
+Aug 02 16:59:30 ubuntu sshd[5728]: session opened for user fischerdaniel by (uid=0)
+Aug 03 04:55:01 ubuntu sshd[7942]: Accepted password for tiffanycrawford from 105.170.224.228 port 44339 ssh2
+Aug 02 19:51:00 ubuntu sshd[4818]: Failed password for rogerssteven from 212.239.50.17 port 62644 ssh2
+Aug 03 10:46:00 ubuntu sshd[1072]: session closed for user fullerkenneth
+Aug 03 12:54:16 ubuntu sshd[6237]: session opened for user jodilutz by (uid=0)
+Aug 03 11:27:55 ubuntu sshd[2975]: session closed for user ckane
+Aug 02 18:52:06 ubuntu sshd[8662]: Failed password for wandatran from 76.29.85.64 port 27003 ssh2
+Aug 02 23:36:36 ubuntu sshd[6047]: Invalid user heathermartin from 137.85.70.50 port 19486
+Aug 03 03:32:46 ubuntu sshd[6354]: session opened for user davidmiller by (uid=0)
+Aug 03 07:28:35 ubuntu sshd[3560]: Failed password for ghartman from 86.196.75.27 port 5587 ssh2
+Aug 02 19:52:26 ubuntu sshd[2035]: sudo:    donalddoyle : TTY=pts/0 ; PWD=/home/donalddoyle ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:51:22 ubuntu sshd[2465]: sudo:    emily40 : TTY=pts/0 ; PWD=/home/emily40 ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:25:28 ubuntu sshd[4658]: session closed for user randerson
+Aug 03 11:28:00 ubuntu sshd[9360]: session closed for user smithsamantha
+Aug 03 01:34:34 ubuntu sshd[3130]: session closed for user lisa29
+Aug 03 00:08:12 ubuntu sshd[1461]: session closed for user johngraves
+Aug 03 03:47:13 ubuntu sshd[7501]: Accepted password for charles36 from 42.16.19.109 port 58777 ssh2
+Aug 02 18:56:22 ubuntu sshd[5408]: session closed for user nmorrison
+Aug 03 01:46:35 ubuntu sshd[2751]: Failed password for mark14 from 215.11.74.194 port 43594 ssh2
+Aug 03 07:23:54 ubuntu sshd[7474]: Failed password for cescobar from 152.63.202.42 port 24143 ssh2
+Aug 02 17:51:21 ubuntu sshd[1549]: session opened for user paula36 by (uid=0)
+Aug 02 19:18:18 ubuntu sshd[8707]: sudo:    patricia28 : TTY=pts/0 ; PWD=/home/patricia28 ; USER=root ; COMMAND=/bin/ls
+Aug 03 05:54:51 ubuntu sshd[8768]: Invalid user fedwards from 214.185.12.226 port 62501
+Aug 03 05:10:18 ubuntu sshd[8068]: Failed password for amandahernandez from 103.224.6.170 port 52536 ssh2
+Aug 02 14:40:45 ubuntu sshd[6459]: session closed for user desireeharrison
+Aug 03 06:48:23 ubuntu sshd[4025]: session closed for user jmendoza
+Aug 03 09:56:52 ubuntu sshd[4354]: Invalid user tasha48 from 71.8.167.70 port 32261
+Aug 02 23:20:43 ubuntu sshd[6176]: session opened for user shelley61 by (uid=0)
+Aug 03 00:23:11 ubuntu sshd[7885]: Invalid user amyromero from 36.29.73.84 port 2068
+Aug 02 19:49:12 ubuntu sshd[6096]: Accepted password for brittany46 from 32.96.170.54 port 17996 ssh2
+Aug 02 21:21:35 ubuntu sshd[3838]: Invalid user ydunn from 214.142.74.233 port 26683
+Aug 03 08:08:48 ubuntu sshd[4269]: Invalid user taylorfrancisco from 198.153.235.175 port 4694
+Aug 03 00:27:32 ubuntu sshd[9501]: Failed password for stephensoncheryl from 181.220.17.122 port 61810 ssh2
+Aug 02 22:39:43 ubuntu sshd[9566]: Failed password for qphillips from 118.62.243.252 port 46854 ssh2
+Aug 02 14:34:34 ubuntu sshd[8536]: Invalid user marcia33 from 81.109.5.150 port 45132
+Aug 03 10:14:13 ubuntu sshd[7823]: Accepted password for brandon57 from 130.60.97.195 port 3742 ssh2
+Aug 02 19:27:40 ubuntu sshd[2009]: Accepted password for juliemaldonado from 208.42.34.91 port 38587 ssh2
+Aug 03 04:58:26 ubuntu sshd[1579]: session closed for user alexandersnyder
+Aug 02 23:32:24 ubuntu sshd[1158]: Accepted password for whitemolly from 172.94.58.180 port 53883 ssh2
+Aug 03 05:46:15 ubuntu sshd[2262]: Accepted password for ernest12 from 174.238.75.51 port 35504 ssh2
+Aug 03 04:51:43 ubuntu sshd[7327]: session closed for user bellglenda
+Aug 03 12:19:43 ubuntu sshd[9736]: Accepted password for pmurphy from 102.241.124.210 port 1231 ssh2
+Aug 03 03:34:48 ubuntu sshd[9678]: session closed for user melissa15
+Aug 03 03:44:56 ubuntu sshd[4666]: session opened for user ngutierrez by (uid=0)
+Aug 03 02:58:32 ubuntu sshd[5364]: Accepted password for jeffrey23 from 195.56.247.151 port 20560 ssh2
+Aug 02 15:03:57 ubuntu sshd[6158]: session closed for user bblankenship
+Aug 02 15:14:25 ubuntu sshd[8372]: sudo:    martinezbrian : TTY=pts/0 ; PWD=/home/martinezbrian ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:32:33 ubuntu sshd[3391]: session closed for user nancy00
+Aug 03 06:38:54 ubuntu sshd[7785]: Accepted password for morriskelsey from 199.72.208.21 port 16000 ssh2
+Aug 03 12:51:24 ubuntu sshd[3527]: Failed password for kbell from 2.152.129.119 port 47800 ssh2
+Aug 02 17:03:32 ubuntu sshd[1382]: Failed password for krichard from 210.207.101.50 port 5610 ssh2
+Aug 03 04:17:49 ubuntu sshd[5744]: sudo:    ryanmills : TTY=pts/0 ; PWD=/home/ryanmills ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:40:44 ubuntu sshd[8151]: sudo:    gsmith : TTY=pts/0 ; PWD=/home/gsmith ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:09:29 ubuntu sshd[1350]: sudo:    comptonmaria : TTY=pts/0 ; PWD=/home/comptonmaria ; USER=root ; COMMAND=/bin/ls
+Aug 03 01:35:36 ubuntu sshd[9700]: session opened for user alisonacevedo by (uid=0)
+Aug 03 09:04:23 ubuntu sshd[5632]: session closed for user alyssaosborne
+Aug 02 15:14:19 ubuntu sshd[3831]: sudo:    joyce16 : TTY=pts/0 ; PWD=/home/joyce16 ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:57:28 ubuntu sshd[2985]: Failed password for michaelbarry from 137.108.52.56 port 26694 ssh2
+Aug 03 01:48:38 ubuntu sshd[9760]: Failed password for bvaldez from 188.68.153.190 port 10763 ssh2
+Aug 03 02:14:10 ubuntu sshd[5319]: session opened for user derekmiller by (uid=0)
+Aug 03 12:23:55 ubuntu sshd[2330]: session opened for user crystal91 by (uid=0)
+Aug 03 05:53:08 ubuntu sshd[3713]: session closed for user donna55
+Aug 03 06:42:26 ubuntu sshd[4405]: Invalid user gjones from 216.198.190.107 port 49794
+Aug 02 17:57:06 ubuntu sshd[4776]: session closed for user jennifer06
+Aug 03 01:23:52 ubuntu sshd[7842]: Invalid user reedcharles from 51.209.233.85 port 31894
+Aug 03 09:10:11 ubuntu sshd[6559]: session closed for user taylorjoseph
+Aug 03 03:00:25 ubuntu sshd[5517]: session opened for user fitzpatrickdaniel by (uid=0)
+Aug 03 11:09:49 ubuntu sshd[4031]: session opened for user benjaminyoder by (uid=0)
+Aug 02 20:28:47 ubuntu sshd[7643]: sudo:    ckelly : TTY=pts/0 ; PWD=/home/ckelly ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:18:05 ubuntu sshd[7237]: Accepted password for burtonjose from 118.231.180.206 port 55473 ssh2
+Aug 03 07:19:19 ubuntu sshd[1540]: Accepted password for kayla76 from 214.69.41.83 port 39458 ssh2
+Aug 03 13:01:54 ubuntu sshd[9155]: session closed for user amber94
+Aug 03 14:00:31 ubuntu sshd[6050]: Invalid user houstonlaura from 198.157.120.185 port 38187
+Aug 02 15:52:18 ubuntu sshd[5439]: Failed password for cheryl42 from 163.173.157.225 port 15599 ssh2
+Aug 03 01:24:49 ubuntu sshd[5426]: Accepted password for alexanderterri from 48.77.220.12 port 34482 ssh2
+Aug 02 16:46:54 ubuntu sshd[6759]: session opened for user bradfordjames by (uid=0)
+Aug 03 04:15:32 ubuntu sshd[5658]: Invalid user kennethjohnson from 85.135.243.193 port 34081
+Aug 02 23:40:28 ubuntu sshd[1127]: Failed password for tiffany77 from 161.23.166.90 port 16948 ssh2
+Aug 02 21:52:36 ubuntu sshd[2350]: Failed password for melissacrane from 211.249.84.55 port 51085 ssh2
+Aug 02 18:20:45 ubuntu sshd[2293]: Failed password for marcia33 from 81.109.5.150 port 26460 ssh2
+Aug 02 23:54:49 ubuntu sshd[9611]: Accepted password for rodneyingram from 195.197.242.2 port 2086 ssh2
+Aug 02 20:01:10 ubuntu sshd[1264]: session opened for user flynnmichael by (uid=0)
+Aug 03 02:26:15 ubuntu sshd[1372]: Accepted password for john12 from 150.14.211.128 port 16767 ssh2
+Aug 03 07:42:42 ubuntu sshd[1433]: sudo:    haley17 : TTY=pts/0 ; PWD=/home/haley17 ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:32:29 ubuntu sshd[4029]: sudo:    douglassolis : TTY=pts/0 ; PWD=/home/douglassolis ; USER=root ; COMMAND=/bin/ls
+Aug 02 17:11:56 ubuntu sshd[9568]: Accepted password for heidi41 from 201.121.43.35 port 55307 ssh2
+Aug 03 07:44:01 ubuntu sshd[1922]: session closed for user allensteven
+Aug 02 15:34:09 ubuntu sshd[6540]: sudo:    kaiseranthony : TTY=pts/0 ; PWD=/home/kaiseranthony ; USER=root ; COMMAND=/bin/ls
+Aug 03 02:12:11 ubuntu sshd[4046]: sudo:    bryantrichard : TTY=pts/0 ; PWD=/home/bryantrichard ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:20:54 ubuntu sshd[8769]: session closed for user perezmelissa
+Aug 02 19:32:25 ubuntu sshd[6867]: Accepted password for mcdonaldfelicia from 220.52.233.40 port 30487 ssh2
+Aug 02 19:43:55 ubuntu sshd[8075]: session opened for user dawnjohnson by (uid=0)
+Aug 03 14:15:59 ubuntu sshd[7201]: Accepted password for ubeck from 51.58.26.185 port 45568 ssh2
+Aug 03 05:17:47 ubuntu sshd[3449]: session closed for user taylorbuck
+Aug 03 01:45:35 ubuntu sshd[2728]: Invalid user nmartin from 216.209.85.193 port 42180
+Aug 02 20:38:16 ubuntu sshd[2113]: Failed password for josephbridges from 37.39.79.99 port 32359 ssh2
+Aug 03 00:09:12 ubuntu sshd[7117]: sudo:    dawncardenas : TTY=pts/0 ; PWD=/home/dawncardenas ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:07:38 ubuntu sshd[6587]: session closed for user christopher34
+Aug 03 01:54:25 ubuntu sshd[4873]: session opened for user michelle81 by (uid=0)
+Aug 02 21:50:00 ubuntu sshd[6232]: session closed for user swansonadrian
+Aug 03 01:16:14 ubuntu sshd[8545]: sudo:    tanyasalinas : TTY=pts/0 ; PWD=/home/tanyasalinas ; USER=root ; COMMAND=/bin/ls
+Aug 03 13:20:52 ubuntu sshd[3827]: session opened for user natalie13 by (uid=0)
+Aug 03 09:03:13 ubuntu sshd[8911]: session closed for user aschmidt
+Aug 03 04:42:30 ubuntu sshd[6884]: Accepted password for beverly81 from 165.168.48.94 port 60157 ssh2
+Aug 02 15:26:34 ubuntu sshd[2207]: Failed password for petersrachel from 160.126.107.41 port 5597 ssh2
+Aug 03 10:13:31 ubuntu sshd[2123]: session closed for user skim
+Aug 02 20:05:41 ubuntu sshd[7652]: session closed for user dvincent
+Aug 03 10:11:49 ubuntu sshd[6109]: session closed for user smitholivia
+Aug 03 09:40:06 ubuntu sshd[6705]: Accepted password for daniel44 from 25.243.97.249 port 23737 ssh2
+Aug 02 22:26:12 ubuntu sshd[8899]: Failed password for derrick52 from 149.31.125.195 port 33289 ssh2
+Aug 02 19:03:27 ubuntu sshd[9105]: session opened for user miranda14 by (uid=0)
+Aug 02 15:56:40 ubuntu sshd[3944]: sudo:    haley29 : TTY=pts/0 ; PWD=/home/haley29 ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:19:01 ubuntu sshd[9049]: session opened for user hortoncharles by (uid=0)
+Aug 03 10:47:08 ubuntu sshd[2460]: session opened for user wrogers by (uid=0)
+Aug 03 10:09:02 ubuntu sshd[3267]: Failed password for cunninghamstephanie from 35.252.107.232 port 42558 ssh2
+Aug 03 00:05:45 ubuntu sshd[4745]: session closed for user zedwards
+Aug 03 09:38:28 ubuntu sshd[6648]: Invalid user swilliams from 39.92.204.182 port 43936
+Aug 03 05:03:58 ubuntu sshd[5144]: session closed for user dawncardenas
+Aug 02 16:18:20 ubuntu sshd[5304]: session closed for user bellwillie
+Aug 02 22:27:36 ubuntu sshd[9110]: session opened for user fbullock by (uid=0)
+Aug 03 07:13:01 ubuntu sshd[6999]: Accepted password for destiny73 from 71.104.153.254 port 28593 ssh2
+Aug 02 20:59:05 ubuntu sshd[3336]: Invalid user vargasdaniel from 208.155.240.137 port 17093
+Aug 03 13:49:28 ubuntu sshd[8553]: sudo:    paul42 : TTY=pts/0 ; PWD=/home/paul42 ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:52:26 ubuntu sshd[5110]: Accepted password for patrick68 from 188.67.226.135 port 23001 ssh2
+Aug 03 06:11:46 ubuntu sshd[2223]: Accepted password for pgood from 209.186.115.191 port 60229 ssh2
+Aug 03 11:39:41 ubuntu sshd[7011]: Invalid user vasquezjohn from 182.3.140.145 port 58707
+Aug 02 19:29:19 ubuntu sshd[2439]: Invalid user jenniferaguirre from 115.37.192.99 port 60959
+Aug 03 10:12:05 ubuntu sshd[5338]: Invalid user mccoytami from 208.172.133.89 port 33388
+Aug 03 00:23:28 ubuntu sshd[1039]: session opened for user phelpseugene by (uid=0)
+Aug 02 20:20:14 ubuntu sshd[2556]: session opened for user heather78 by (uid=0)
+Aug 03 01:16:42 ubuntu sshd[2638]: Accepted password for carolinejoyce from 132.95.26.201 port 52442 ssh2
+Aug 02 14:25:09 ubuntu sshd[1595]: sudo:    mayashley : TTY=pts/0 ; PWD=/home/mayashley ; USER=root ; COMMAND=/bin/ls
+Aug 02 15:06:17 ubuntu sshd[5356]: session opened for user vanessakennedy by (uid=0)
+Aug 03 04:13:32 ubuntu sshd[3687]: Accepted password for dcrane from 145.23.141.70 port 55546 ssh2
+Aug 03 00:25:28 ubuntu sshd[1365]: Accepted password for jonesjohn from 213.129.191.206 port 32062 ssh2
+Aug 03 04:49:42 ubuntu sshd[5444]: Accepted password for iwilliams from 1.55.60.203 port 63323 ssh2
+Aug 03 07:36:54 ubuntu sshd[5379]: session closed for user vaughnjeremy
+Aug 02 22:08:28 ubuntu sshd[6449]: sudo:    michellerodriguez : TTY=pts/0 ; PWD=/home/michellerodriguez ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:10:11 ubuntu sshd[1512]: Accepted password for jenniferwalton from 62.4.110.207 port 40225 ssh2
+Aug 02 17:32:25 ubuntu sshd[1618]: session closed for user wardgregory
+Aug 03 03:17:09 ubuntu sshd[6839]: session opened for user julie89 by (uid=0)
+Aug 02 21:52:35 ubuntu sshd[6138]: session opened for user elizabeth87 by (uid=0)
+Aug 03 08:02:03 ubuntu sshd[2119]: Failed password for jasonunderwood from 199.15.25.13 port 14979 ssh2
+Aug 02 18:57:07 ubuntu sshd[9846]: session opened for user rhonda92 by (uid=0)
+Aug 03 12:10:26 ubuntu sshd[3314]: sudo:    ccunningham : TTY=pts/0 ; PWD=/home/ccunningham ; USER=root ; COMMAND=/bin/ls
+Aug 03 07:06:08 ubuntu sshd[9359]: Accepted password for dsanchez from 214.224.57.164 port 2895 ssh2
+Aug 03 13:06:05 ubuntu sshd[2967]: Invalid user tanyasalinas from 177.239.201.162 port 14334
+Aug 02 16:25:19 ubuntu sshd[7357]: Accepted password for kmyers from 162.141.19.167 port 14318 ssh2
+Aug 03 08:56:55 ubuntu sshd[9377]: Failed password for dawn15 from 212.231.38.35 port 11993 ssh2
+Aug 02 20:12:44 ubuntu sshd[3692]: session closed for user kimberly76
+Aug 02 23:38:48 ubuntu sshd[2437]: Accepted password for paul07 from 141.160.109.215 port 32583 ssh2
+Aug 03 11:45:25 ubuntu sshd[2580]: session opened for user pittmanscott by (uid=0)
+Aug 02 16:47:16 ubuntu sshd[1499]: Accepted password for ramirezdylan from 159.24.22.152 port 28203 ssh2
+Aug 03 05:45:00 ubuntu sshd[4132]: session opened for user smoore by (uid=0)
+Aug 03 13:42:45 ubuntu sshd[7552]: Accepted password for brownmegan from 153.190.49.211 port 16771 ssh2
+Aug 02 16:10:26 ubuntu sshd[3822]: Invalid user matthewkoch from 102.117.145.110 port 60771
+Aug 03 01:38:47 ubuntu sshd[4543]: Failed password for ccoffey from 92.104.222.166 port 38207 ssh2
+Aug 03 13:44:24 ubuntu sshd[8711]: session opened for user johngraves by (uid=0)
+Aug 03 07:03:13 ubuntu sshd[5353]: sudo:    pjohnson : TTY=pts/0 ; PWD=/home/pjohnson ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:52:10 ubuntu sshd[8008]: sudo:    xmurray : TTY=pts/0 ; PWD=/home/xmurray ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:34:29 ubuntu sshd[4226]: session closed for user lynn52
+Aug 03 09:28:07 ubuntu sshd[4965]: sudo:    rharvey : TTY=pts/0 ; PWD=/home/rharvey ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:04:53 ubuntu sshd[8108]: Failed password for tbecker from 196.248.241.102 port 5181 ssh2
+Aug 03 12:56:58 ubuntu sshd[1408]: Failed password for alexandermichael from 193.190.193.109 port 8546 ssh2
+Aug 03 01:18:57 ubuntu sshd[8215]: session closed for user bbowman
+Aug 03 05:15:41 ubuntu sshd[5324]: session closed for user suzannejarvis
+Aug 03 06:43:50 ubuntu sshd[1463]: Accepted password for washingtonchristina from 105.114.41.120 port 55184 ssh2
+Aug 02 22:02:10 ubuntu sshd[5257]: sudo:    jonathan39 : TTY=pts/0 ; PWD=/home/jonathan39 ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:31:41 ubuntu sshd[8034]: sudo:    ibuckley : TTY=pts/0 ; PWD=/home/ibuckley ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:44:16 ubuntu sshd[3230]: session closed for user jeffrey13
+Aug 02 14:59:21 ubuntu sshd[1884]: Accepted password for tammie54 from 159.239.17.242 port 27479 ssh2
+Aug 03 00:21:03 ubuntu sshd[5078]: session opened for user jennifer59 by (uid=0)
+Aug 02 20:07:01 ubuntu sshd[2797]: Accepted password for taylor27 from 187.21.224.199 port 16055 ssh2
+Aug 03 07:58:21 ubuntu sshd[8323]: Failed password for harrischristina from 209.188.197.120 port 56217 ssh2
+Aug 03 05:51:38 ubuntu sshd[6180]: session closed for user gpayne
+Aug 02 15:51:43 ubuntu sshd[4073]: Failed password for mollycross from 50.189.112.63 port 21314 ssh2
+Aug 02 18:35:34 ubuntu sshd[9353]: session closed for user markcarpenter
+Aug 03 03:14:18 ubuntu sshd[5281]: Invalid user tylermontgomery from 113.214.57.95 port 13913
+Aug 03 07:14:15 ubuntu sshd[9800]: Failed password for ortizkaren from 12.190.19.164 port 32592 ssh2
+Aug 03 13:13:50 ubuntu sshd[1535]: Accepted password for villanuevajohn from 170.72.104.218 port 10947 ssh2
+Aug 02 22:48:40 ubuntu sshd[5858]: session closed for user kellimurphy
+Aug 03 02:07:32 ubuntu sshd[3062]: Accepted password for mstevens from 120.171.44.136 port 7406 ssh2
+Aug 03 05:25:01 ubuntu sshd[9783]: session closed for user charles01
+Aug 03 06:07:25 ubuntu sshd[2608]: session opened for user christophermann by (uid=0)
+Aug 03 07:59:10 ubuntu sshd[7185]: sudo:    tbecker : TTY=pts/0 ; PWD=/home/tbecker ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:14:06 ubuntu sshd[4318]: Failed password for amandamorales from 119.90.180.111 port 54496 ssh2
+Aug 02 21:06:24 ubuntu sshd[2470]: Invalid user hhurst from 59.115.67.166 port 11685
+Aug 03 10:58:57 ubuntu sshd[6099]: session opened for user wtravis by (uid=0)
+Aug 03 04:55:13 ubuntu sshd[3263]: sudo:    matthew12 : TTY=pts/0 ; PWD=/home/matthew12 ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:52:58 ubuntu sshd[4034]: session closed for user warrendavid
+Aug 03 00:44:57 ubuntu sshd[9181]: Invalid user william36 from 216.70.99.53 port 20836
+Aug 03 13:49:21 ubuntu sshd[9275]: Accepted password for chase57 from 93.12.254.254 port 10196 ssh2
+Aug 03 01:38:30 ubuntu sshd[7397]: Invalid user jordan73 from 90.239.253.54 port 6163
+Aug 03 05:54:30 ubuntu sshd[6308]: Invalid user lorimccoy from 192.128.233.199 port 46738
+Aug 03 07:08:32 ubuntu sshd[4036]: session opened for user torrestracy by (uid=0)
+Aug 03 01:19:56 ubuntu sshd[7382]: sudo:    iscott : TTY=pts/0 ; PWD=/home/iscott ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:53:33 ubuntu sshd[8738]: Accepted password for tjenkins from 198.196.77.119 port 27384 ssh2
+Aug 03 10:02:49 ubuntu sshd[6624]: Failed password for troyclarke from 211.214.79.1 port 10186 ssh2
+Aug 03 02:21:05 ubuntu sshd[2193]: Failed password for molson from 194.145.215.132 port 39559 ssh2
+Aug 03 13:30:32 ubuntu sshd[7770]: Failed password for william71 from 167.84.205.202 port 37921 ssh2
+Aug 03 10:41:08 ubuntu sshd[3217]: Failed password for burtontiffany from 163.194.209.183 port 32301 ssh2
+Aug 02 15:56:29 ubuntu sshd[6525]: sudo:    derek79 : TTY=pts/0 ; PWD=/home/derek79 ; USER=root ; COMMAND=/bin/ls
+Aug 03 06:07:24 ubuntu sshd[6015]: Invalid user raytracey from 217.198.186.119 port 4183
+Aug 03 10:32:48 ubuntu sshd[4113]: session closed for user johnsonheather
+Aug 03 01:49:58 ubuntu sshd[5689]: Accepted password for davisjeffrey from 3.219.195.214 port 39633 ssh2
+Aug 02 18:55:10 ubuntu sshd[9185]: Invalid user brandimiller from 173.232.7.69 port 6850
+Aug 02 16:07:47 ubuntu sshd[1319]: session opened for user webbtimothy by (uid=0)
+Aug 03 03:44:29 ubuntu sshd[7388]: session opened for user vickieharrison by (uid=0)
+Aug 03 01:52:26 ubuntu sshd[9114]: Invalid user seancarroll from 36.235.125.178 port 19780
+Aug 03 05:37:17 ubuntu sshd[8861]: sudo:    monicasnyder : TTY=pts/0 ; PWD=/home/monicasnyder ; USER=root ; COMMAND=/bin/ls
+Aug 03 04:54:09 ubuntu sshd[1045]: session opened for user qgarner by (uid=0)
+Aug 02 20:58:41 ubuntu sshd[7867]: Invalid user everettjennifer from 118.235.69.218 port 36218
+Aug 02 19:36:45 ubuntu sshd[6003]: Accepted password for warrendavid from 25.49.200.106 port 18570 ssh2
+Aug 02 19:33:10 ubuntu sshd[7858]: session opened for user gonzaleslindsey by (uid=0)
+Aug 03 05:10:02 ubuntu sshd[1292]: Invalid user kcole from 103.108.177.144 port 36515
+Aug 02 18:28:14 ubuntu sshd[4060]: session closed for user moorelinda
+Aug 03 07:10:55 ubuntu sshd[8217]: session closed for user carrollbryan
+Aug 02 20:09:30 ubuntu sshd[9678]: sudo:    pricealexander : TTY=pts/0 ; PWD=/home/pricealexander ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:59:39 ubuntu sshd[4782]: session opened for user rhonda11 by (uid=0)
+Aug 02 18:12:38 ubuntu sshd[5356]: Accepted password for ithompson from 31.124.182.203 port 20248 ssh2
+Aug 02 18:20:40 ubuntu sshd[4461]: session closed for user brownzoe
+Aug 02 19:12:23 ubuntu sshd[8023]: session closed for user donald75
+Aug 02 20:15:33 ubuntu sshd[5309]: Invalid user brendagates from 209.183.27.94 port 25386
+Aug 03 03:45:43 ubuntu sshd[1192]: Accepted password for whitestephen from 113.240.24.123 port 63640 ssh2
+Aug 03 03:34:33 ubuntu sshd[3584]: session opened for user curtis11 by (uid=0)
+Aug 02 20:44:14 ubuntu sshd[6878]: session opened for user ryanfreeman by (uid=0)
+Aug 02 18:26:56 ubuntu sshd[7624]: sudo:    millerrichard : TTY=pts/0 ; PWD=/home/millerrichard ; USER=root ; COMMAND=/bin/ls
+Aug 02 16:43:37 ubuntu sshd[4351]: sudo:    robert26 : TTY=pts/0 ; PWD=/home/robert26 ; USER=root ; COMMAND=/bin/ls
+Aug 02 18:07:28 ubuntu sshd[5191]: Accepted password for michael74 from 191.87.188.144 port 18471 ssh2
+Aug 03 03:44:40 ubuntu sshd[5341]: Accepted password for mrobertson from 217.85.76.4 port 7850 ssh2
+Aug 02 23:32:29 ubuntu sshd[8590]: session closed for user pagebradley
+Aug 03 09:44:10 ubuntu sshd[2067]: Failed password for melissaharris from 24.97.197.46 port 54914 ssh2
+Aug 03 04:56:59 ubuntu sshd[3546]: Invalid user levans from 194.100.195.220 port 22551
+Aug 03 05:57:52 ubuntu sshd[7265]: session closed for user douglas44
+Aug 03 10:54:43 ubuntu sshd[5194]: sudo:    lauramiller : TTY=pts/0 ; PWD=/home/lauramiller ; USER=root ; COMMAND=/bin/ls
+Aug 02 14:28:45 ubuntu sshd[4975]: Accepted password for christophermyers from 211.243.68.114 port 42501 ssh2
+Aug 03 03:47:56 ubuntu sshd[3853]: session closed for user michaeltaylor
+Aug 03 03:10:24 ubuntu sshd[4897]: Invalid user philip10 from 215.99.89.42 port 26555
+Aug 02 15:52:24 ubuntu sshd[6403]: Invalid user tonifields from 109.148.92.194 port 4904
+Aug 03 03:56:57 ubuntu sshd[5460]: Failed password for gerald87 from 218.146.106.241 port 47171 ssh2
+Aug 02 20:15:54 ubuntu sshd[8746]: sudo:    lisamiller : TTY=pts/0 ; PWD=/home/lisamiller ; USER=root ; COMMAND=/bin/ls
+Aug 03 14:16:26 ubuntu sshd[3725]: Accepted password for psanchez from 201.252.81.12 port 7071 ssh2
+Aug 02 21:22:53 ubuntu sshd[9789]: Failed password for ashley78 from 69.186.142.15 port 3003 ssh2
+Aug 03 06:34:35 ubuntu sshd[1714]: sudo:    sarahthomas : TTY=pts/0 ; PWD=/home/sarahthomas ; USER=root ; COMMAND=/bin/ls
+Aug 03 06:50:32 ubuntu sshd[8901]: session opened for user juliagibbs by (uid=0)
+Aug 02 22:19:17 ubuntu sshd[8241]: sudo:    laurahoward : TTY=pts/0 ; PWD=/home/laurahoward ; USER=root ; COMMAND=/bin/ls
+Aug 02 14:30:32 ubuntu sshd[5205]: Invalid user michellereilly from 30.154.38.191 port 1461
+Aug 03 11:00:57 ubuntu sshd[4152]: Failed password for ereeves from 176.248.150.73 port 13919 ssh2
+Aug 03 06:23:05 ubuntu sshd[9055]: Invalid user christie30 from 223.94.160.171 port 35172
+Aug 03 02:12:53 ubuntu sshd[5631]: session closed for user michael37
+Aug 02 17:25:43 ubuntu sshd[7656]: Invalid user martinezbrian from 192.209.227.92 port 20978
+Aug 03 00:53:41 ubuntu sshd[5315]: sudo:    moorelinda : TTY=pts/0 ; PWD=/home/moorelinda ; USER=root ; COMMAND=/bin/ls
+Aug 03 09:36:48 ubuntu sshd[3414]: session closed for user bvaldez
+Aug 03 03:06:54 ubuntu sshd[7197]: Invalid user mollycross from 50.189.112.63 port 22140
+Aug 02 21:29:19 ubuntu sshd[9142]: session opened for user tomluna by (uid=0)
+Aug 02 18:49:36 ubuntu sshd[8503]: sudo:    wrightanthony : TTY=pts/0 ; PWD=/home/wrightanthony ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:53:55 ubuntu sshd[3086]: Failed password for campbellangela from 175.17.175.24 port 44072 ssh2
+Aug 02 20:45:17 ubuntu sshd[7298]: session opened for user johnsonrobert by (uid=0)
+Aug 03 02:49:09 ubuntu sshd[4188]: Failed password for gmoran from 222.162.116.46 port 2145 ssh2
+Aug 03 08:20:52 ubuntu sshd[5547]: session opened for user hramirez by (uid=0)
+Aug 03 08:33:26 ubuntu sshd[8252]: session closed for user webbjeremy
+Aug 03 00:36:06 ubuntu sshd[1229]: session opened for user jmiller by (uid=0)
+Aug 02 18:45:08 ubuntu sshd[6044]: sudo:    michael05 : TTY=pts/0 ; PWD=/home/michael05 ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:45:31 ubuntu sshd[8050]: session opened for user rhammond by (uid=0)
+Aug 02 16:03:19 ubuntu sshd[9470]: Invalid user juliagibbs from 137.113.119.69 port 60152
+Aug 02 15:38:03 ubuntu sshd[4243]: sudo:    jonathan71 : TTY=pts/0 ; PWD=/home/jonathan71 ; USER=root ; COMMAND=/bin/ls
+Aug 02 18:15:05 ubuntu sshd[7503]: session opened for user raymondbrown by (uid=0)
+Aug 02 19:07:46 ubuntu sshd[7736]: session closed for user vincentelizabeth
+Aug 02 22:19:45 ubuntu sshd[4763]: session closed for user melissa43
+Aug 02 17:31:33 ubuntu sshd[5775]: Failed password for laura70 from 201.114.143.204 port 23637 ssh2
+Aug 03 10:27:29 ubuntu sshd[2879]: Accepted password for patricia89 from 193.204.162.24 port 32085 ssh2
+Aug 02 15:20:12 ubuntu sshd[1730]: Failed password for iibarra from 39.161.102.84 port 16093 ssh2
+Aug 02 17:38:48 ubuntu sshd[7241]: session closed for user fsalazar
+Aug 03 09:38:10 ubuntu sshd[4552]: Accepted password for crystalnolan from 223.22.244.84 port 26527 ssh2
+Aug 03 06:10:08 ubuntu sshd[7754]: sudo:    russellstephen : TTY=pts/0 ; PWD=/home/russellstephen ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:35:42 ubuntu sshd[7595]: Accepted password for zachary58 from 202.34.180.150 port 7616 ssh2
+Aug 03 01:33:53 ubuntu sshd[5179]: Invalid user jamesmartinez from 223.113.63.216 port 17804
+Aug 02 20:20:05 ubuntu sshd[9662]: Failed password for tylerwalker from 159.81.203.54 port 62228 ssh2
+Aug 02 17:06:59 ubuntu sshd[8511]: sudo:    dmurphy : TTY=pts/0 ; PWD=/home/dmurphy ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:14:07 ubuntu sshd[3276]: Failed password for hhurst from 59.115.67.166 port 58540 ssh2
+Aug 02 20:22:47 ubuntu sshd[4165]: Accepted password for jeffersonjames from 58.168.100.70 port 57751 ssh2
+Aug 02 21:50:24 ubuntu sshd[2924]: Invalid user pmiller from 101.96.120.54 port 43511
+Aug 03 12:16:55 ubuntu sshd[9862]: Invalid user vrobbins from 195.59.225.93 port 31987
+Aug 03 08:04:35 ubuntu sshd[8302]: session opened for user kwilliams by (uid=0)
+Aug 03 06:16:54 ubuntu sshd[4348]: session closed for user munozandrew
+Aug 02 19:35:11 ubuntu sshd[1997]: sudo:    sethavila : TTY=pts/0 ; PWD=/home/sethavila ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:39:37 ubuntu sshd[1972]: session opened for user sabrinasandoval by (uid=0)
+Aug 03 12:44:26 ubuntu sshd[1553]: Accepted password for joannetorres from 217.51.186.211 port 22117 ssh2
+Aug 02 18:49:17 ubuntu sshd[7776]: session closed for user jeremiah01
+Aug 03 01:44:23 ubuntu sshd[6111]: session closed for user morganlinda
+Aug 02 15:01:10 ubuntu sshd[7332]: sudo:    pricealexander : TTY=pts/0 ; PWD=/home/pricealexander ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:14:55 ubuntu sshd[5025]: session closed for user jbrooks
+Aug 03 00:55:59 ubuntu sshd[9729]: Accepted password for ashley23 from 52.28.13.22 port 20916 ssh2
+Aug 03 06:29:39 ubuntu sshd[4587]: sudo:    michael84 : TTY=pts/0 ; PWD=/home/michael84 ; USER=root ; COMMAND=/bin/ls
+Aug 02 23:33:06 ubuntu sshd[8683]: Failed password for hconley from 202.188.192.242 port 22750 ssh2
+Aug 03 07:00:03 ubuntu sshd[9233]: sudo:    tvasquez : TTY=pts/0 ; PWD=/home/tvasquez ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:56:57 ubuntu sshd[8871]: session opened for user phill by (uid=0)
+Aug 02 15:50:55 ubuntu sshd[1429]: session closed for user pjohnson
+Aug 02 21:16:07 ubuntu sshd[5379]: session opened for user cameronclark by (uid=0)
+Aug 02 19:36:04 ubuntu sshd[5337]: Invalid user jasminearnold from 204.60.220.241 port 10359
+Aug 03 08:47:34 ubuntu sshd[3820]: session opened for user svaughn by (uid=0)
+Aug 03 00:42:15 ubuntu sshd[1171]: sudo:    michael46 : TTY=pts/0 ; PWD=/home/michael46 ; USER=root ; COMMAND=/bin/ls
+Aug 03 14:01:16 ubuntu sshd[2143]: Invalid user davenportsabrina from 215.3.233.7 port 44980
+Aug 02 19:35:54 ubuntu sshd[2692]: session closed for user hernandezpatrick
+Aug 03 07:51:39 ubuntu sshd[5450]: sudo:    lauramiller : TTY=pts/0 ; PWD=/home/lauramiller ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:39:15 ubuntu sshd[3066]: Invalid user obowen from 71.24.61.148 port 8719
+Aug 03 03:45:18 ubuntu sshd[9120]: Failed password for paullewis from 138.217.96.74 port 24184 ssh2
+Aug 03 10:56:02 ubuntu sshd[4094]: sudo:    eric37 : TTY=pts/0 ; PWD=/home/eric37 ; USER=root ; COMMAND=/bin/ls
+Aug 02 20:32:14 ubuntu sshd[9338]: Invalid user richardorr from 147.64.114.7 port 32582
+Aug 03 04:53:08 ubuntu sshd[9254]: Accepted password for wmedina from 223.145.167.36 port 48291 ssh2
+Aug 03 11:01:18 ubuntu sshd[5021]: Failed password for wchandler from 56.25.202.185 port 38686 ssh2
+Aug 03 03:28:44 ubuntu sshd[7719]: Invalid user monique30 from 170.22.9.42 port 16458
+Aug 02 20:10:31 ubuntu sshd[5269]: Invalid user tiffany77 from 161.23.166.90 port 29947
+Aug 03 09:19:04 ubuntu sshd[4822]: session closed for user lindsaybradley
+Aug 02 21:26:22 ubuntu sshd[6339]: sudo:    christopher58 : TTY=pts/0 ; PWD=/home/christopher58 ; USER=root ; COMMAND=/bin/ls
+Aug 03 14:07:58 ubuntu sshd[7057]: session opened for user seth78 by (uid=0)
+Aug 03 06:53:37 ubuntu sshd[9371]: sudo:    mendozasamuel : TTY=pts/0 ; PWD=/home/mendozasamuel ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:43:15 ubuntu sshd[9393]: Accepted password for kimberly47 from 179.141.88.13 port 60056 ssh2
+Aug 02 21:55:33 ubuntu sshd[3736]: session closed for user elizabeth87
+Aug 02 19:45:44 ubuntu sshd[7392]: session opened for user dorseykaren by (uid=0)
+Aug 03 02:02:17 ubuntu sshd[4221]: Invalid user jaime12 from 41.146.179.35 port 25894
+Aug 03 10:34:23 ubuntu sshd[4895]: Failed password for mariaspence from 189.209.3.217 port 18185 ssh2
+Aug 03 13:49:07 ubuntu sshd[3730]: session opened for user nicholasbaker by (uid=0)
+Aug 03 08:31:09 ubuntu sshd[1850]: sudo:    tammybarrett : TTY=pts/0 ; PWD=/home/tammybarrett ; USER=root ; COMMAND=/bin/ls
+Aug 03 13:55:49 ubuntu sshd[9478]: Accepted password for lowedavid from 164.92.5.216 port 59823 ssh2
+Aug 02 14:44:54 ubuntu sshd[5199]: sudo:    alyssagomez : TTY=pts/0 ; PWD=/home/alyssagomez ; USER=root ; COMMAND=/bin/ls
+Aug 02 23:00:54 ubuntu sshd[7329]: sudo:    kevin74 : TTY=pts/0 ; PWD=/home/kevin74 ; USER=root ; COMMAND=/bin/ls
+Aug 02 15:43:27 ubuntu sshd[1804]: session opened for user amanda91 by (uid=0)
+Aug 03 06:25:05 ubuntu sshd[7689]: Failed password for sdavis from 26.153.190.101 port 21885 ssh2
+Aug 03 10:34:52 ubuntu sshd[9311]: Invalid user evanwilliams from 91.145.118.55 port 29652
+Aug 03 05:34:58 ubuntu sshd[6113]: session closed for user vickimoore
+Aug 03 13:09:04 ubuntu sshd[5350]: Accepted password for maureen31 from 107.94.254.233 port 57791 ssh2
+Aug 03 13:35:47 ubuntu sshd[2042]: sudo:    meredith48 : TTY=pts/0 ; PWD=/home/meredith48 ; USER=root ; COMMAND=/bin/ls
+Aug 03 13:24:32 ubuntu sshd[7864]: session closed for user ptaylor
+Aug 03 09:30:34 ubuntu sshd[6478]: Invalid user ayoung from 157.19.184.176 port 62630
+Aug 03 06:51:56 ubuntu sshd[3277]: Invalid user gonzalestrevor from 136.66.205.19 port 33569
+Aug 02 15:29:56 ubuntu sshd[6465]: Invalid user elizabeth64 from 165.132.82.226 port 25119
+Aug 03 03:37:43 ubuntu sshd[8984]: session opened for user mhall by (uid=0)
+Aug 02 23:34:02 ubuntu sshd[2757]: Accepted password for yflores from 7.198.58.102 port 61051 ssh2
+Aug 02 18:20:55 ubuntu sshd[9335]: Failed password for ryan44 from 208.88.212.111 port 56277 ssh2
+Aug 03 02:27:26 ubuntu sshd[7863]: sudo:    krobbins : TTY=pts/0 ; PWD=/home/krobbins ; USER=root ; COMMAND=/bin/ls
+Aug 03 02:17:55 ubuntu sshd[8951]: Invalid user rowecraig from 220.26.161.50 port 8717
+Aug 03 10:30:00 ubuntu sshd[7849]: Accepted password for warrendavid from 25.49.200.106 port 32553 ssh2
+Aug 02 15:43:08 ubuntu sshd[4269]: Failed password for khess from 154.199.143.191 port 45968 ssh2
+Aug 02 15:49:27 ubuntu sshd[8540]: Failed password for cbernard from 196.138.183.119 port 27535 ssh2
+Aug 02 17:01:50 ubuntu sshd[2229]: Invalid user rhonda11 from 198.145.23.223 port 52283
+Aug 03 10:29:56 ubuntu sshd[6201]: Accepted password for bellbrett from 80.43.103.103 port 31071 ssh2
+Aug 03 07:30:47 ubuntu sshd[8512]: sudo:    twilliams : TTY=pts/0 ; PWD=/home/twilliams ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:14:53 ubuntu sshd[2729]: Failed password for jason34 from 213.199.196.4 port 19558 ssh2
+Aug 03 00:28:13 ubuntu sshd[5525]: sudo:    keith26 : TTY=pts/0 ; PWD=/home/keith26 ; USER=root ; COMMAND=/bin/ls
+Aug 03 12:35:47 ubuntu sshd[9624]: Invalid user moliver from 76.178.69.201 port 64152
+Aug 03 13:03:35 ubuntu sshd[5005]: session closed for user houstonlaura
+Aug 02 15:06:33 ubuntu sshd[4371]: session opened for user douglas62 by (uid=0)
+Aug 02 14:29:32 ubuntu sshd[6163]: Accepted password for matthew52 from 204.139.104.0 port 9368 ssh2
+Aug 03 01:01:55 ubuntu sshd[8374]: Accepted password for jerome19 from 181.37.120.72 port 40742 ssh2
+Aug 03 10:20:03 ubuntu sshd[9324]: session closed for user erikalozano
+Aug 03 04:20:01 ubuntu sshd[5576]: session opened for user obates by (uid=0)
+Aug 02 22:05:27 ubuntu sshd[5816]: session opened for user cbailey by (uid=0)
+Aug 03 04:39:32 ubuntu sshd[5489]: session opened for user amanda55 by (uid=0)
+Aug 02 17:49:41 ubuntu sshd[3320]: Invalid user crawfordperry from 195.108.116.230 port 7127
+Aug 02 19:16:37 ubuntu sshd[6320]: session closed for user bbrady
+Aug 02 16:47:46 ubuntu sshd[9413]: Invalid user mariaweber from 196.175.99.87 port 30067
+Aug 03 07:14:50 ubuntu sshd[8154]: sudo:    kelly70 : TTY=pts/0 ; PWD=/home/kelly70 ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:53:58 ubuntu sshd[8397]: session opened for user dianabrown by (uid=0)
+Aug 02 19:54:45 ubuntu sshd[8593]: session closed for user mbishop
+Aug 03 06:56:00 ubuntu sshd[1857]: Accepted password for ismith from 68.37.144.0 port 48908 ssh2
+Aug 03 07:27:25 ubuntu sshd[3618]: session closed for user shahkevin
+Aug 02 17:12:30 ubuntu sshd[3706]: session closed for user virginia33
+Aug 03 10:38:56 ubuntu sshd[8894]: Invalid user fsandoval from 203.110.107.244 port 10879
+Aug 02 20:34:40 ubuntu sshd[6145]: sudo:    beckbrenda : TTY=pts/0 ; PWD=/home/beckbrenda ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:18:18 ubuntu sshd[9266]: session opened for user hartmanjessica by (uid=0)
+Aug 02 17:25:26 ubuntu sshd[8608]: Failed password for dsanchez from 214.224.57.164 port 50574 ssh2
+Aug 02 14:45:12 ubuntu sshd[9562]: Accepted password for pgibson from 202.208.112.165 port 52906 ssh2
+Aug 03 08:56:20 ubuntu sshd[9517]: session closed for user robertestrada
+Aug 03 01:01:36 ubuntu sshd[9713]: sudo:    curtis18 : TTY=pts/0 ; PWD=/home/curtis18 ; USER=root ; COMMAND=/bin/ls
+Aug 03 02:12:05 ubuntu sshd[3296]: Accepted password for marissa68 from 78.221.155.198 port 53017 ssh2
+Aug 03 04:50:35 ubuntu sshd[2980]: session closed for user jaime12
+Aug 03 08:12:57 ubuntu sshd[1725]: session opened for user manuel52 by (uid=0)
+Aug 03 01:03:03 ubuntu sshd[8059]: Failed password for yangkayla from 159.201.62.112 port 23278 ssh2
+Aug 03 10:22:19 ubuntu sshd[6035]: session closed for user troy36
+Aug 02 16:34:05 ubuntu sshd[4295]: Accepted password for pamelaleach from 184.179.121.121 port 10074 ssh2
+Aug 03 12:20:06 ubuntu sshd[7217]: sudo:    kellygarcia : TTY=pts/0 ; PWD=/home/kellygarcia ; USER=root ; COMMAND=/bin/ls
+Aug 02 20:19:41 ubuntu sshd[8465]: session opened for user herringkenneth by (uid=0)
+Aug 03 02:31:06 ubuntu sshd[2308]: Invalid user michael46 from 200.36.111.5 port 64572
+Aug 03 01:06:17 ubuntu sshd[2995]: Failed password for penashannon from 21.35.194.126 port 60533 ssh2
+Aug 03 01:25:56 ubuntu sshd[5692]: Accepted password for erin17 from 109.32.200.224 port 33279 ssh2
+Aug 02 22:53:06 ubuntu sshd[9413]: session opened for user angela03 by (uid=0)
+Aug 03 01:01:26 ubuntu sshd[3732]: session opened for user jsmith by (uid=0)
+Aug 03 09:21:01 ubuntu sshd[1367]: Invalid user bedwards from 170.133.135.72 port 20036
+Aug 03 13:16:51 ubuntu sshd[6005]: session closed for user brittanymiller
+Aug 02 23:08:37 ubuntu sshd[2316]: Accepted password for adammartin from 105.161.30.158 port 51590 ssh2
+Aug 02 22:00:21 ubuntu sshd[4840]: session opened for user knightdavid by (uid=0)
+Aug 03 10:17:58 ubuntu sshd[9573]: Accepted password for preston31 from 133.196.105.103 port 43244 ssh2
+Aug 03 10:16:32 ubuntu sshd[6616]: session opened for user christine54 by (uid=0)
+Aug 03 07:36:30 ubuntu sshd[3695]: Failed password for isuarez from 158.53.97.241 port 8444 ssh2
+Aug 02 14:57:24 ubuntu sshd[3836]: Failed password for sgordon from 211.11.66.103 port 44652 ssh2
+Aug 03 04:02:43 ubuntu sshd[8354]: Failed password for amber47 from 92.153.4.11 port 54603 ssh2
+Aug 03 02:09:37 ubuntu sshd[4523]: Accepted password for jonathan71 from 102.61.95.10 port 54860 ssh2
+Aug 03 00:58:41 ubuntu sshd[6401]: Accepted password for milleramber from 21.139.171.69 port 59856 ssh2
+Aug 02 20:40:11 ubuntu sshd[9450]: sudo:    carlosprice : TTY=pts/0 ; PWD=/home/carlosprice ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:16:31 ubuntu sshd[1375]: Accepted password for joseperry from 56.119.83.61 port 52048 ssh2
+Aug 03 00:04:20 ubuntu sshd[2798]: session closed for user stacyvelez
+Aug 02 21:54:40 ubuntu sshd[6504]: Invalid user diazrachel from 210.187.127.217 port 49080
+Aug 03 03:19:20 ubuntu sshd[1893]: session opened for user lisa29 by (uid=0)
+Aug 02 19:16:09 ubuntu sshd[2582]: Invalid user pamelataylor from 81.153.234.135 port 41532
+Aug 03 03:13:46 ubuntu sshd[9971]: Failed password for carloscollier from 204.64.249.190 port 18632 ssh2
+Aug 03 07:05:59 ubuntu sshd[6255]: session opened for user justinlawson by (uid=0)
+Aug 02 19:15:08 ubuntu sshd[6914]: sudo:    christopher07 : TTY=pts/0 ; PWD=/home/christopher07 ; USER=root ; COMMAND=/bin/ls
+Aug 02 17:38:58 ubuntu sshd[2948]: Failed password for njones from 194.178.70.160 port 26576 ssh2
+Aug 02 18:23:09 ubuntu sshd[1912]: Accepted password for omclean from 185.80.112.105 port 31235 ssh2
+Aug 03 05:07:26 ubuntu sshd[1295]: Invalid user ipatrick from 192.203.177.245 port 5801
+Aug 03 05:01:24 ubuntu sshd[7128]: Failed password for twhite from 133.6.155.117 port 64576 ssh2
+Aug 03 01:23:42 ubuntu sshd[7054]: session closed for user stevensmegan
+Aug 03 02:01:44 ubuntu sshd[8973]: Invalid user christopher07 from 114.227.196.66 port 15321
+Aug 03 03:04:25 ubuntu sshd[5348]: sudo:    katie55 : TTY=pts/0 ; PWD=/home/katie55 ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:34:00 ubuntu sshd[4622]: Failed password for gramos from 156.56.126.164 port 27440 ssh2
+Aug 03 14:16:11 ubuntu sshd[4349]: session opened for user robertwhitaker by (uid=0)
+Aug 02 19:28:40 ubuntu sshd[3989]: session opened for user franklinronnie by (uid=0)
+Aug 03 06:37:24 ubuntu sshd[6756]: session closed for user romerojasmine
+Aug 02 19:54:11 ubuntu sshd[1938]: Failed password for paulspencer from 214.16.103.122 port 28892 ssh2
+Aug 02 19:09:56 ubuntu sshd[6553]: sudo:    rvalenzuela : TTY=pts/0 ; PWD=/home/rvalenzuela ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:20:05 ubuntu sshd[9780]: Failed password for lauren90 from 173.53.221.86 port 19980 ssh2
+Aug 03 01:24:57 ubuntu sshd[1895]: session closed for user brownchristopher
+Aug 03 07:18:42 ubuntu sshd[2088]: Accepted password for kenneth50 from 94.37.60.108 port 58281 ssh2
+Aug 03 11:51:09 ubuntu sshd[2153]: Failed password for joseph76 from 197.184.228.50 port 60628 ssh2
+Aug 03 00:39:16 ubuntu sshd[8610]: session closed for user thompsontina
+Aug 02 18:28:19 ubuntu sshd[7728]: session closed for user ryanosborne
+Aug 02 16:23:22 ubuntu sshd[7986]: Failed password for kelseypeterson from 171.226.175.22 port 58871 ssh2
+Aug 03 06:16:01 ubuntu sshd[4682]: Failed password for danielsclinton from 138.108.22.44 port 33673 ssh2
+Aug 02 17:03:11 ubuntu sshd[6717]: sudo:    daniel83 : TTY=pts/0 ; PWD=/home/daniel83 ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:12:49 ubuntu sshd[7660]: Accepted password for janet66 from 223.201.53.192 port 51841 ssh2
+Aug 02 19:14:08 ubuntu sshd[3798]: Invalid user jasonreyes from 79.186.54.128 port 24183
+Aug 02 14:56:50 ubuntu sshd[5339]: session opened for user ycruz by (uid=0)
+Aug 03 01:22:35 ubuntu sshd[2963]: Failed password for brian59 from 70.184.158.232 port 14927 ssh2
+Aug 03 05:23:10 ubuntu sshd[7340]: session opened for user daniel22 by (uid=0)
+Aug 02 18:21:37 ubuntu sshd[7556]: session closed for user mary48
+Aug 03 13:48:42 ubuntu sshd[1747]: session opened for user mbailey by (uid=0)
+Aug 02 20:05:23 ubuntu sshd[2061]: Invalid user wmeza from 212.34.71.3 port 32168
+Aug 03 05:21:42 ubuntu sshd[8191]: Accepted password for lauren04 from 48.138.228.41 port 61971 ssh2
+Aug 03 03:01:33 ubuntu sshd[5627]: Invalid user soniasanchez from 155.153.151.68 port 15480
+Aug 03 05:11:55 ubuntu sshd[6440]: Accepted password for xgarcia from 155.180.137.2 port 7640 ssh2
+Aug 02 15:07:15 ubuntu sshd[1737]: session opened for user carolinejoyce by (uid=0)
+Aug 03 07:54:00 ubuntu sshd[3085]: Accepted password for xmiller from 130.146.157.50 port 37239 ssh2
+Aug 02 23:36:51 ubuntu sshd[5377]: sudo:    connieacosta : TTY=pts/0 ; PWD=/home/connieacosta ; USER=root ; COMMAND=/bin/ls
+Aug 03 02:02:47 ubuntu sshd[9452]: session closed for user jmccoy
+Aug 03 13:43:55 ubuntu sshd[3328]: Accepted password for melaniehicks from 37.225.255.84 port 10722 ssh2
+Aug 02 21:32:26 ubuntu sshd[4742]: Failed password for cynthia68 from 219.223.35.135 port 41739 ssh2
+Aug 02 17:14:44 ubuntu sshd[7471]: Failed password for lstout from 179.72.27.23 port 19423 ssh2
+Aug 02 14:32:17 ubuntu sshd[4789]: session opened for user welchamy by (uid=0)
+Aug 03 04:12:16 ubuntu sshd[6429]: Invalid user jasonking from 120.237.220.121 port 34624
+Aug 02 21:26:04 ubuntu sshd[4246]: session closed for user yjackson
+Aug 03 04:48:29 ubuntu sshd[7961]: Invalid user alison76 from 28.163.125.116 port 2817
+Aug 02 16:18:34 ubuntu sshd[8226]: sudo:    twilliams : TTY=pts/0 ; PWD=/home/twilliams ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:24:34 ubuntu sshd[8258]: Failed password for zedwards from 203.77.176.179 port 33439 ssh2
+Aug 02 18:49:10 ubuntu sshd[5919]: session opened for user calderonaustin by (uid=0)
+Aug 03 12:13:39 ubuntu sshd[6989]: sudo:    martha06 : TTY=pts/0 ; PWD=/home/martha06 ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:21:54 ubuntu sshd[7757]: Failed password for rowecraig from 220.26.161.50 port 59161 ssh2
+Aug 03 01:35:37 ubuntu sshd[7184]: Failed password for twilliams from 191.128.39.220 port 32546 ssh2
+Aug 02 15:42:04 ubuntu sshd[8530]: Accepted password for gilbertlynn from 20.85.87.190 port 44616 ssh2
+Aug 02 20:12:19 ubuntu sshd[4808]: Accepted password for gonzaleschristian from 201.41.155.42 port 25205 ssh2
+Aug 02 16:04:28 ubuntu sshd[9077]: session opened for user mhall by (uid=0)
+Aug 02 14:55:55 ubuntu sshd[9225]: Invalid user garrettbutler from 39.103.25.107 port 10737
+Aug 03 13:38:12 ubuntu sshd[3329]: sudo:    smithjill : TTY=pts/0 ; PWD=/home/smithjill ; USER=root ; COMMAND=/bin/ls
+Aug 03 08:05:55 ubuntu sshd[7336]: session opened for user ecampbell by (uid=0)
+Aug 03 09:15:36 ubuntu sshd[2882]: Invalid user jared14 from 40.61.16.24 port 12761
+Aug 03 10:23:59 ubuntu sshd[5877]: session opened for user xmoore by (uid=0)
+Aug 02 16:01:33 ubuntu sshd[5245]: Accepted password for martinezbethany from 196.107.44.59 port 51381 ssh2
+Aug 03 04:56:12 ubuntu sshd[8115]: Failed password for welchalexis from 188.141.186.37 port 39365 ssh2
+Aug 03 10:28:48 ubuntu sshd[6842]: session opened for user bryanwallace by (uid=0)
+Aug 03 13:47:48 ubuntu sshd[4304]: Accepted password for vnichols from 208.206.5.203 port 24850 ssh2
+Aug 03 02:22:08 ubuntu sshd[8814]: sudo:    reneeperez : TTY=pts/0 ; PWD=/home/reneeperez ; USER=root ; COMMAND=/bin/ls
+Aug 02 21:52:53 ubuntu sshd[3179]: Accepted password for francisco89 from 213.173.196.57 port 44082 ssh2
+Aug 03 09:01:57 ubuntu sshd[8873]: Accepted password for jessicaconrad from 15.117.151.109 port 38991 ssh2
+Aug 02 19:22:00 ubuntu sshd[6959]: Failed password for johnsonchristie from 194.191.215.212 port 3314 ssh2
+Aug 03 00:47:08 ubuntu sshd[9887]: sudo:    jasonreyes : TTY=pts/0 ; PWD=/home/jasonreyes ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:32:28 ubuntu sshd[8904]: Accepted password for adam46 from 217.73.212.11 port 4532 ssh2
+Aug 02 18:48:58 ubuntu sshd[5684]: session closed for user fowlergary
+Aug 02 22:01:35 ubuntu sshd[6508]: Failed password for wayne44 from 140.3.2.171 port 14353 ssh2
+Aug 03 10:21:16 ubuntu sshd[4907]: sudo:    jaime12 : TTY=pts/0 ; PWD=/home/jaime12 ; USER=root ; COMMAND=/bin/ls
+Aug 02 14:34:14 ubuntu sshd[1867]: Accepted password for timothy79 from 143.255.23.180 port 3287 ssh2
+Aug 02 20:31:50 ubuntu sshd[9989]: Invalid user olsenangela from 7.114.249.132 port 12343
+Aug 03 06:17:07 ubuntu sshd[3673]: session closed for user kennethcobb
+Aug 03 11:44:39 ubuntu sshd[4817]: session opened for user briannathompson by (uid=0)
+Aug 03 07:27:15 ubuntu sshd[3552]: session closed for user justin05
+Aug 03 07:18:12 ubuntu sshd[8482]: sudo:    jacob73 : TTY=pts/0 ; PWD=/home/jacob73 ; USER=root ; COMMAND=/bin/ls
+Aug 02 19:12:14 ubuntu sshd[4570]: sudo:    ryanmills : TTY=pts/0 ; PWD=/home/ryanmills ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:41:50 ubuntu sshd[2313]: Failed password for pwade from 15.55.247.21 port 19918 ssh2
+Aug 03 07:51:28 ubuntu sshd[1444]: session closed for user hansenrichard
+Aug 02 17:48:04 ubuntu sshd[7146]: Failed password for dclark from 74.81.177.228 port 36489 ssh2
+Aug 02 23:29:42 ubuntu sshd[8077]: session opened for user pflores by (uid=0)
+Aug 03 14:20:53 ubuntu sshd[9098]: Failed password for kmcmillan from 144.60.245.172 port 33678 ssh2
+Aug 03 10:49:43 ubuntu sshd[6154]: Invalid user megan42 from 145.31.141.255 port 35636
+Aug 03 01:56:39 ubuntu sshd[1369]: Failed password for jonesaaron from 163.37.164.86 port 13356 ssh2
+Aug 02 17:17:55 ubuntu sshd[2707]: session opened for user katherine26 by (uid=0)
+Aug 02 17:34:34 ubuntu sshd[7391]: Accepted password for perezcassandra from 186.169.218.81 port 5789 ssh2
+Aug 02 22:50:06 ubuntu sshd[8375]: sudo:    cgarcia : TTY=pts/0 ; PWD=/home/cgarcia ; USER=root ; COMMAND=/bin/ls
+Aug 02 17:07:03 ubuntu sshd[4732]: Invalid user gabriela11 from 102.82.39.243 port 44541
+Aug 03 10:15:37 ubuntu sshd[2273]: Failed password for lynnschmitt from 217.92.224.117 port 35151 ssh2
+Aug 03 08:23:59 ubuntu sshd[1417]: Invalid user tiffany10 from 72.209.91.241 port 7360
+Aug 03 02:44:30 ubuntu sshd[7982]: sudo:    ufranklin : TTY=pts/0 ; PWD=/home/ufranklin ; USER=root ; COMMAND=/bin/ls
+Aug 02 20:18:00 ubuntu sshd[9346]: sudo:    gschwartz : TTY=pts/0 ; PWD=/home/gschwartz ; USER=root ; COMMAND=/bin/ls
+Aug 03 10:42:59 ubuntu sshd[5752]: session closed for user fwilliams
+Aug 02 21:34:30 ubuntu sshd[2137]: session opened for user jeffreychapman by (uid=0)
+Aug 02 21:56:39 ubuntu sshd[9877]: session closed for user pearsonsean
+Aug 03 06:43:42 ubuntu sshd[8275]: session opened for user bfernandez by (uid=0)
+Aug 03 12:40:35 ubuntu sshd[4667]: session opened for user carrie36 by (uid=0)
+Aug 02 18:21:42 ubuntu sshd[8762]: Failed password for alexandrawright from 176.12.165.12 port 25933 ssh2
+Aug 03 09:57:47 ubuntu sshd[4834]: Invalid user christopherraymond from 201.21.60.0 port 28373
+Aug 02 20:44:15 ubuntu sshd[2873]: sudo:    rwood : TTY=pts/0 ; PWD=/home/rwood ; USER=root ; COMMAND=/bin/ls
+Aug 02 22:28:06 ubuntu sshd[5097]: session closed for user jo47
+Aug 02 22:26:33 ubuntu sshd[1126]: session opened for user dphillips by (uid=0)
+Aug 02 23:25:05 ubuntu sshd[2907]: Accepted password for maciasjeffery from 66.68.11.106 port 63165 ssh2
+Aug 02 14:41:40 ubuntu sshd[1696]: Failed password for amber93 from 196.40.208.17 port 21242 ssh2
+Aug 03 12:06:47 ubuntu sshd[6397]: Accepted password for medinakelsey from 169.255.227.100 port 59711 ssh2
+Aug 03 11:33:47 ubuntu sshd[7355]: session closed for user seth78
+Aug 03 09:12:55 ubuntu sshd[1313]: sudo:    uross : TTY=pts/0 ; PWD=/home/uross ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:28:33 ubuntu sshd[1925]: Accepted password for erin17 from 109.32.200.224 port 6896 ssh2
+Aug 02 18:54:47 ubuntu sshd[9309]: Accepted password for andrewroberts from 208.76.212.50 port 31315 ssh2
+Aug 03 07:43:58 ubuntu sshd[7892]: Invalid user lovekristine from 176.82.118.79 port 44393
+Aug 03 10:31:18 ubuntu sshd[5534]: Accepted password for robertcox from 188.86.200.162 port 53818 ssh2
+Aug 03 08:06:31 ubuntu sshd[7120]: session closed for user sanchezterri
+Aug 02 21:23:03 ubuntu sshd[1424]: Invalid user markdunlap from 55.218.40.56 port 1398
+Aug 03 11:12:00 ubuntu sshd[1381]: Invalid user joshua82 from 202.146.250.76 port 29110
+Aug 02 20:24:03 ubuntu sshd[7392]: Invalid user joycemichael from 204.217.174.102 port 12910
+Aug 03 05:17:00 ubuntu sshd[9460]: session opened for user wheeleranthony by (uid=0)
+Aug 02 21:46:09 ubuntu sshd[4716]: session opened for user amandamorales by (uid=0)
+Aug 03 02:53:45 ubuntu sshd[2912]: Invalid user jasonking from 207.174.146.65 port 36772
+Aug 03 07:25:26 ubuntu sshd[9104]: sudo:    rhodge : TTY=pts/0 ; PWD=/home/rhodge ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:22:39 ubuntu sshd[8466]: Invalid user amy90 from 153.154.118.84 port 5706
+Aug 02 20:57:38 ubuntu sshd[7829]: session closed for user audreyrobinson
+Aug 03 04:05:57 ubuntu sshd[2302]: Failed password for xgray from 195.23.108.112 port 53381 ssh2
+Aug 02 15:19:35 ubuntu sshd[9141]: Accepted password for jray from 203.120.215.83 port 53664 ssh2
+Aug 02 22:13:30 ubuntu sshd[2359]: Failed password for phoffman from 211.113.128.84 port 41976 ssh2
+Aug 03 05:00:12 ubuntu sshd[3810]: session opened for user houstonlaura by (uid=0)
+Aug 02 16:31:04 ubuntu sshd[3170]: sudo:    connieacosta : TTY=pts/0 ; PWD=/home/connieacosta ; USER=root ; COMMAND=/bin/ls
+Aug 03 11:18:20 ubuntu sshd[9599]: sudo:    moorestephanie : TTY=pts/0 ; PWD=/home/moorestephanie ; USER=root ; COMMAND=/bin/ls
+Aug 02 18:20:28 ubuntu sshd[2139]: Accepted password for thompsonjustin from 143.171.140.33 port 49440 ssh2
+Aug 03 11:51:48 ubuntu sshd[5142]: session opened for user megan35 by (uid=0)
+Aug 03 07:32:02 ubuntu sshd[1633]: Invalid user medinakelsey from 169.255.227.100 port 37296
+Aug 03 00:10:33 ubuntu sshd[5200]: session closed for user marissa68
+Aug 03 10:18:31 ubuntu sshd[6541]: Invalid user robertjohnson from 215.15.41.164 port 37436
+Aug 03 11:26:01 ubuntu sshd[7457]: sudo:    alyssa60 : TTY=pts/0 ; PWD=/home/alyssa60 ; USER=root ; COMMAND=/bin/ls
+Aug 03 00:33:45 ubuntu sshd[3733]: Failed password for vjackson from 136.186.58.238 port 19455 ssh2
+Aug 02 23:48:16 ubuntu sshd[6819]: Invalid user dickersonshawn from 195.177.254.147 port 32165
+Aug 03 08:02:05 ubuntu sshd[6812]: Failed password for michelle44 from 121.135.250.199 port 51694 ssh2
+Aug 03 02:33:27 ubuntu sshd[5864]: Invalid user khankathryn from 62.39.180.217 port 17547
+Aug 03 11:30:49 ubuntu sshd[2825]: session closed for user christopheroliver
+Aug 03 09:44:59 ubuntu sshd[4949]: Failed password for smithsean from 146.41.197.125 port 29156 ssh2
+Aug 03 04:18:44 ubuntu sshd[6251]: session opened for user jennifersosa by (uid=0)
+Aug 02 16:19:20 ubuntu sshd[4715]: Accepted password for ismith from 68.37.144.0 port 13765 ssh2
+Aug 03 09:09:50 ubuntu sshd[5609]: Accepted password for rodney33 from 174.52.61.43 port 54098 ssh2
+Aug 03 10:30:29 ubuntu sshd[9367]: Failed password for ycruz from 93.12.224.134 port 57758 ssh2
+Aug 03 08:26:32 ubuntu sshd[3179]: sudo:    kathy30 : TTY=pts/0 ; PWD=/home/kathy30 ; USER=root ; COMMAND=/bin/ls
+Aug 02 20:35:34 ubuntu sshd[7358]: sudo:    carpenterjonathan : TTY=pts/0 ; PWD=/home/carpenterjonathan ; USER=root ; COMMAND=/bin/ls
+Aug 03 03:03:38 ubuntu sshd[5163]: session closed for user jonesjenna
+Aug 03 13:40:02 ubuntu sshd[6736]: Invalid user davislarry from 158.186.254.160 port 4960
+Aug 03 09:32:53 ubuntu sshd[9907]: Accepted password for alfred28 from 159.66.168.230 port 2259 ssh2
+Aug 02 23:38:32 ubuntu sshd[7582]: session closed for user lisa76
+Aug 03 05:19:38 ubuntu sshd[7435]: session closed for user xhart
+Aug 02 21:20:52 ubuntu sshd[1769]: session opened for user kellimurphy by (uid=0)
